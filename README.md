@@ -1,2 +1,2 @@
 # NLP
-MFIN7037 Course Project
+MFIN7036 Course Project
