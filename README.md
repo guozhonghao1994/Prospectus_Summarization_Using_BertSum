@@ -14,8 +14,7 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 - cleaned prospectus with [CLS][SEP] tokens
 - cleaned summary with [CLS][SEP] tokens
 
-#### [Warning](#Web Scraping and Data Cleaning)
-*In some cases, yoiu should manually adjust the format of cleaned text file. For example, you should delete the last [CLS][SEP] for each paragraph, you should delete [CLS][SEP] in decimals, names, etc.*
+**Warning**: *In some cases, yoiu should manually adjust the format of cleaned text file. For example, you should delete the last [CLS][SEP] for each paragraph, you should delete [CLS][SEP] in decimals, names, etc.*
 
 ### [BertSum](#readme)
 We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf) and [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf). The author has given us well-trained models and preprocessed data already. We can directly download from her Google Drive.
