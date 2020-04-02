@@ -31,6 +31,12 @@ Python 3.6
 `torch==1.1.0` `pytorch_transformers` `tensorboardX` `multiprocess pyrouge`
 
 ### [Usage](#readme)
+#### Extractive
 ```
 python train.py -task ext -mode test_text -test_from MODEL_PATH -text_src RAW_TEXT_PATH -result_path OUTPUT_PATH -log_file LOG_PATH -visible_gpus -1
+```
+
+#### Absractive
+```
+python train.py -task abs -mode test_text -test_from MODEL_PATH -text_src RAW_TEXT_PATH -result_path OUTPUT_PATH -log_file LOG_PATH -visible_gpus -1
 ```
