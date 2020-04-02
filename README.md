@@ -17,7 +17,7 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 **Warning**: *In some cases, yoiu should manually adjust the format of cleaned text file. For example, you should delete the last [CLS][SEP] for each paragraph, you should delete [CLS][SEP] in decimals, names, etc.*
 
 ### [Preparation](#readme)
-We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf) and [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf). The author has given us well-trained models and preprocessed data already. We can directly download from her Google Drive.
+We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf) and [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf). The [author](https://github.com/nlpyang/PreSumm/tree/dev) has given us well-trained models and preprocessed data already. We can directly download from her Google Drive.
 #### Download the processed data
 [Pre-processed data](https://drive.google.com/file/d/1DN7ClZCCXsk2KegmC6t4ClBwtAf5galI/view), unzip the zipfile and put all .pt files into `./bert_data`
 #### Trained models
