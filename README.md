@@ -19,15 +19,18 @@ We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://
 #### [Download the processed data](#BertSum)
 [Pre-processed data](https://drive.google.com/file/d/1DN7ClZCCXsk2KegmC6t4ClBwtAf5galI/view)
 
-unzip the zipfile and put all .pt files into `bert_data`.
+unzip the zipfile and put all .pt files into `./bert_data`
 
 #### [Trained models](#BertSum)
 [CNN/DM Extractive](https://drive.google.com/file/d/1kKWoV0QCbeIuFt85beQgJ4v0lujaXobJ/view)
 
-unzip the zipfile and put .pt file into `./models/ext`.
+unzip the zipfile and put .pt file into `./models/ext`
 
 [CNN/DM Abstractive](https://drive.google.com/file/d/1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr/view)
 
-unzip the zipfile and put .pt file into `./models/abs`.
+unzip the zipfile and put .pt file into `./models/abs`
 
-#### 
+#### [Package Requirements](#BertSum)
+Python 3.6
+
+`torch==1.1.0` `pytorch_transformers` `tensorboardX` `multiprocess pyrouge`
