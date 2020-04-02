@@ -7,4 +7,8 @@ We aim to use a deep-learning model called BertSum to summarize IPO prospectus. 
 
 ### Web Scraping and Data Cleaning
 See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well as **CIK** to get the 424B prospectus from *U.S. SECURITIES AND EXCHANGE COMMISSION* website. Commonly, it will create 6 text files:
-- the raw prospectus
+- raw prospectus
+- raw summary
+- cleaned prospectus
+- cleaned summary
+- cleaned prospectus with [CLS][SEP] 
