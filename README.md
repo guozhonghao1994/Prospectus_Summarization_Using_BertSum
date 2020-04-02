@@ -11,4 +11,8 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 - raw summary
 - cleaned prospectus
 - cleaned summary
-- cleaned prospectus with [CLS][SEP] 
+- cleaned prospectus with [CLS][SEP] tokens
+- cleaned summary with [CLS][SEP] tokens
+
+### BertSum
+We borrowed the idea from [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf)
