@@ -29,3 +29,8 @@ We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://
 Python 3.6
 
 `torch==1.1.0` `pytorch_transformers` `tensorboardX` `multiprocess pyrouge`
+
+### [Usage](#readme)
+```
+python train.py -task ext -mode test_text -test_from MODEL_PATH -text_src RAW_TEXT_PATH -result_path OUTPUT_PATH -log_file LOG_PATH -visible_gpus -1
+```
