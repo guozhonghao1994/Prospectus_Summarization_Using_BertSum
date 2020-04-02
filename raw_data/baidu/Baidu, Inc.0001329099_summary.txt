@@ -1,0 +1,412 @@
+    The
+following summary is qualified in its entirety by, and should be read in conjunction with, the more detailed information and financial statements appearing elsewhere in this prospectus. In addition to this summary, we urge you to read the entire
+prospectus carefully, especially the risks of investing in our ordinary shares and ADSs discussed under Risk Factors, before deciding whether to purchase our ordinary shares or ADSs.    Our Business    We are the leading Chinese language Internet search provider. Our search
+engine was the most frequently used search engine in China in 2004, according to a survey conducted by Shanghai iResearch Co., Ltd., or iResearch, a market research firm specializing in Chinas Internet industry. Our Baidu.com website was the
+second largest website in China and the sixth largest website globally, as measured by user traffic that reflects page views and reach during the three-month period ended July 31, 2005, according to Alexa.com. We offer a unique Chinese language
+search platform for both users and customers. Our platform consists of our websites and Baidu Union, which is our network of third-party websites.    Our services are designed to enable Internet search users to find relevant information online, including Chinese language web pages, news, images and
+multimedia files, through links provided on our websites. We provide our users with easy access to an index of over 740 million web pages, 80 million images and 10 million multimedia files. We also offer a query-based online community, Baidu Post
+Bar, which currently consists of over 820,000 message boards.    Our auction-based pay-for-performance, or P4P, services enable our customers to bid for priority placement of their links in keyword search results. We believe we were the first auction-based P4P service provider in China. Our online
+advertising services allow customers to use both query sensitive and non-query sensitive advertising services, including text links, graphical advertisements and other forms of online advertising. We design and deliver our services to our P4P and
+tailored solutions customers based on their online marketing requirements. Our P4P customers are those who primarily use our auction-based P4P services, and our tailored solutions customers are those to whom we provide marketing solutions, which may
+consist of one or more forms of our online advertising services as well as P4P services. In 2004, we had over 34,600 online marketing customers.    Founded in January 2000, we launched Internet search services on our Baidu.com website and began generating revenues from P4P services in September 2001.
+We began offering other online marketing services in July 2003. We have grown significantly since we commenced operations. Our total net revenues increased from RMB10.5 million in 2002 to RMB110.9 million (US$13.4 million) in 2004, representing a
+compound annual growth rate, or CAGR, of 224.6%. In the three months ended March 31, 2005, we generated total net revenues of RMB42.6 million (US$5.2 million).   
+Our Industry    The Internet search industry in China is evolving rapidly as an increasing number of people seek information, products and services via the Internet.
+According to iResearch, the number of Internet search users in China is projected to grow from 115 million in 2005 to 187 million in 2007, representing a CAGR of 27.5%. With the growth of Internet usage and the rapid development of Chinas
+Internet search market, online marketing has become more widely adopted. According to a 2003 report published by IDC, a leading market research firm, total online marketing revenues in China would amount to approximately US$130 million in 2004. The
+paid search market is expected to be the fastest growing segment of online marketing in the Asia Pacific region (excluding Japan) through 2007.   
+1 
+
+
+Table of Contents
+Chinas Internet search industry presents unique challenges and opportunities. Chinese language
+search engines must address the needs of Internet users in China, who generally search online for a broad variety of information, including Chinese language web pages, news, multimedia files and images. Chinese language search engines must also
+develop special language processing technologies to generate relevant results due to the complexities associated with the Chinese language and Chinese keyword searches. Moreover, Chinese language search engines providing paid search services must
+develop an effective distribution network to acquire customers, collect payments and provide customer service since Chinas paid search customers are largely comprised of a broad and fragmented base of small to medium-sized enterprises, or
+SMEs.    Our Strengths, Strategies and Risks    We believe that our leading position in China is primarily attributable to
+the following strengths:   
+
+
+ 
+
+ 
+largest Chinese language search audience as measured by user traffic;   
+
+
+ 
+
+ 
+first P4P service provider in China with an extensive customer base across industries;   
+
+
+ 
+
+ 
+one of the most widely recognized Internet search brands in China, enhancing our ability to attract both users and customers;   
+
+
+ 
+
+ 
+local market experience and expertise in introducing and expanding our services across China and operating in Chinas rapidly evolving Internet industry;
+  
+
+
+ 
+
+ 
+leading technology with a proven platform providing users with relevant search results and customers with a cost-effective way to reach potential consumers; and
+  
+
+
+ 
+
+ 
+extensive and effective nationwide network of over 200 regional distributors, providing high-quality and consistent customer services.    Our goal is to become a platform that provides Internet users with the best
+way to find information and allows businesses to reach a broad base of potential customers. We intend to achieve our goal by implementing the following strategies:   
+
+
+ 
+
+ 
+enhancing user experience and increasing traffic through the development and introduction of new search-related features and functions;   
+
+
+ 
+
+ 
+growing our online marketing business by attracting potential customers and increasing per-customer spending on our services;   
+
+
+ 
+
+ 
+expanding Baidu Union by leveraging our brand and offering competitive economic arrangements to Baidu Union members; and   
+
+
+ 
+
+ 
+pursuing selective strategic acquisitions and alliances that will allow us to increase user traffic, enlarge our customer base, expand our product offerings and reduce
+customer acquisition costs.    The successful
+execution of our strategies is subject to certain risks and uncertainties, including our ability to:   
+
+
+ 
+
+ 
+maintain our leading position in the Internet search industry in China;   
+2 
+
+
+Table of Contents
+
+
+ 
+
+ 
+offer new and innovative products and services to attract and retain a larger user base;   
+
+
+ 
+
+ 
+attract additional customers and increase per-customer spending;   
+
+
+ 
+
+ 
+increase awareness of our brand and continue to develop user and customer loyalty;   
+
+
+ 
+
+ 
+respond to competitive market conditions;   
+
+
+ 
+
+ 
+respond to changes in our regulatory environment;   
+
+
+ 
+
+ 
+manage risks associated with intellectual property rights;   
+
+
+ 
+
+ 
+maintain effective control of our costs and expenses;   
+
+
+ 
+
+ 
+raise sufficient capital to sustain and expand our business;   
+
+
+ 
+
+ 
+attract, retain and motivate qualified personnel; and   
+
+
+ 
+
+ 
+upgrade our technology to support increased traffic and expanded services.    Please see Risk Factors and other information included in this prospectus for a discussion of these risks.    Our Corporate Information    We were incorporated in the Cayman Islands in January 2000. Since our
+inception, we have conducted our operations principally through Baidu Online Network Technology (Beijing) Co., Ltd., or Baidu Online, our wholly owned subsidiary in Beijing, China. In addition, we have conducted part of our operations through Baidu
+Netcom Science and Technology Co., Ltd., or Baidu Netcom, a limited liability company in Beijing, China, which holds the licenses and approvals necessary to operate our websites and provide online advertising services. See Corporate
+Structure for a description of the contractual arrangements among Baidu Online and Baidu Netcom and its shareholders. In June 2005, we established Baidu (China) Co., Ltd., or Baidu China, a wholly owned subsidiary in Shanghai, China. We intend
+to manage our business and operations in the southern part of China through Baidu China in the future.    Our principal executive offices are located at 12/F, Ideal International Plaza, No. 58 West-North 4th Ring, Beijing 100080, Peoples Republic of China. Our telephone number at this address is +86 (10) 8262-1188. Our registered office in the Cayman Islands
+is located at M&C Corporate Services Limited, P.O. Box 309 GT, Ugland House, South Church Street, George Town, Grand Cayman, Cayman Islands. Our telephone number at this address is +1 (345) 949-8066. We also have regional offices in Shanghai and
+Shenzhen, China.    Investors should submit any inquiries to the
+address and telephone number of our principal executive offices set forth above. Baidu.com is our website and the information contained on this website is not a part of this prospectus. Our agent for service of process in the United States is CT
+Corporation System, located at 111 Eighth Avenue, New York, New York 10011.   
+3 
+
+
+Table of Contents
+Our Corporate Structure    PRC law currently limits foreign ownership of companies that provide Internet content and advertising services. To comply
+with these foreign ownership restrictions, we operate our websites and provide online advertising services in China through Baidu Netcom, a PRC limited liability company wholly owned by our co-founder and chief executive officer, Robin Yanhong Li,
+and our co-founder, Eric Yong Xu, both of whom are PRC citizens. Baidu Netcom holds the licenses and approvals necessary to operate our websites and to provide online advertising services in China. We have contractual arrangements with Baidu Netcom
+and its shareholders pursuant to which we provide technology consulting services and license our registered domain names, trademarks and certain software to Baidu Netcom. Through these contractual arrangements, we also have the ability to
+substantially influence Baidu Netcoms daily operations and financial affairs, appoint its senior executives and approve all matters requiring shareholder approval. As a result of these contractual arrangements, which enable us to control Baidu
+Netcom, we are considered the primary beneficiary of Baidu Netcom. Accordingly, we consolidate Baidu Netcoms results, assets and liabilities in our financial statements. For a description of these contractual arrangements, see Corporate
+StructureContractual Arrangements with Baidu Netcom and its Shareholders.    The following diagram illustrates our current corporate structure and the place of formation, ownership interest and affiliation of each of our subsidiaries and Baidu Netcom as of the date of this prospectus.
+   
+   
+
+
+*
+A limited liability company incorporated in the PRC   
+
+
+
+
+Equity interest   
+
+
+
+
+Contractual arrangements including business cooperation agreement, operating agreement, license agreements, proxy agreement and exclusive technology consulting service agreement. For a
+description of these agreements, see Corporate StructureContractual Arrangements with Baidu Netcom and its Shareholders.   
+
+
+
+
+Contractual arrangements including proxy agreement, equity pledge agreement, option agreement, operating agreement, loan agreement and irrevocable power of attorney. For a description of
+these agreements, see Corporate StructureContractual Arrangements with Baidu Netcom and its Shareholders.     
+4 
+
+
+Table of Contents
+The Offering    The following information assumes that the underwriters will not exercise their option to purchase additional ADSs in the
+offering, unless otherwise indicated.   
+
+
+ Offering price 
+ US$27.00 per ADS   
+
+
+ ADSs offered by us 
+ 3,208,696 ADSs   
+
+
+ ADSs offered by the selling shareholders 
+ 831,706 ADSs   
+
+
+ Class A ordinary shares outstanding immediately after this offering 
+ 4,344,877 shares   
+
+
+ Class B ordinary shares outstanding immediately after this offering 
+ 27,973,716 shares   
+
+
+ ADSs to Class A ordinary share ratio 
+ Each ADS represents one Class A ordinary share.   
+
+
+ Listing 
+ The ADSs have been approved for listing on the Nasdaq National Market under the symbol BIDU. The ordinary shares and the ADSs will not
+be listed on any other exchange or traded on any other automated quotation system.   
+
+
+ Ordinary shares 
+ Holders of Class A ordinary shares and Class B ordinary shares have the same rights except for voting and conversion rights. Each Class A ordinary
+share shall be entitled to one vote on all matters subject to shareholders vote, and each Class B ordinary share shall be entitled to 10 votes on all matters subject to shareholders vote. Each Class B ordinary share is convertible into
+one Class A ordinary share at any time by the holder thereof. Class A ordinary shares are not convertible into Class B ordinary shares under any circumstances. Upon any transfer of Class B ordinary shares by a holder thereof to any person or entity
+which is not an affiliate of such holder, such Class B ordinary shares shall be automatically and immediately converted into the equal number of Class A ordinary shares.   
+
+
+ The ADSs 
+ The ADSs will be evidenced by ADRs.   
+
+
+ 
+
+ 
+The depositary will hold the shares underlying your ADSs. You will have rights as provided in the deposit agreement.   
+
+
+ 
+
+ 
+We do not expect to pay dividends in the foreseeable future. If, however, we declare dividends on our ordinary shares, the depositary will pay you the cash dividends and other
+distributions it receives on our Class A ordinary shares, after deducting its fees and expenses.     
+5 
+
+
+Table of Contents
+
+
+ 
+
+ 
+You may turn in your ADSs to the depositary in exchange for Class A ordinary shares. The depositary will charge you fees for any such exchange.   
+
+
+ 
+
+ 
+We may amend or terminate the deposit agreement without your consent. If you continue to hold your ADSs, you agree to be bound by the deposit agreement as amended.
+  
+
+
+ 
+ To better understand the terms of the ADSs, you should carefully read the Description of American Depositary Shares section of this
+prospectus. You should also read the deposit agreement, which is filed as an exhibit to the registration statement that includes this prospectus.   
+
+
+ Depositary 
+ The Bank of New York   
+
+
+ Options to purchase additional ADSs 
+ We and certain selling shareholders have granted to the underwriters an option, which is exercisable within 30 days from the date of this
+prospectus, to purchase up to an additional 563,822 ADSs. See Underwriting for more information.   
+
+
+ Timing and settlement for ADSs 
+ The ADSs are expected to be delivered against payment on August 10, 2005. The ADRs evidencing the ADSs will be deposited with a custodian for, and
+registered in the name of a nominee of, The Depository Trust Company, or DTC, in New York, New York. DTC, and its direct and indirect participants, will maintain records that will show the beneficial interests in the ADSs and facilitate any transfer
+of the beneficial interests.   
+
+
+ Use of proceeds 
+ Our net proceeds from this offering are approximately US$77.0 million. We plan to use the net proceeds we receive from this offering: (i) to
+enhance our user experience; (ii) to expand our customer base; and (iii) for general corporate purposes. See Use of Proceeds for additional information.   
+
+
+ 
+ We will not receive any of the proceeds from the sale of ADSs by the selling shareholders.   
+
+
+ Lock-up 
+ We have agreed with the underwriters on a lock-up of ADSs or ordinary shares or securities convertible into or exchangeable or exercisable for any
+ADSs or ordinary shares for a period of 180 days after the date of this prospectus. In addition, our executive officers, directors and certain existing shareholders, who collectively hold approximately 94.8% of our outstanding shares immediately
+before this offering, have also agreed with the underwriters to a lock-up of ADSs or ordinary shares or securities convertible into or exchangeable or exercisable for any ADSs or ordinary shares for a period of 180 days after the date of this
+prospectus. Other than 
+  
+6 
+
+
+Table of Contents
+
+
+ 
+ 
+Google Inc., which holds approximately 2.6% of our total outstanding shares immediately before this offering, shareholders with ownership of 2% or more of
+our total outstanding ordinary shares on a fully-diluted basis immediately after the closing of this offering have also agreed with the underwriters to be subject to the lock-up restrictions for an additional 540-day period commencing on the date of
+the expiration of the 180-day lock-up period. Commencing on the date of the expiration of the 180-day lock-up period and at the beginning of each 180-day period thereafter until the expiration of the 540-day extended lock-up period, 25% of the
+shares held immediately after the completion of this offering of such shareholder will be released from the lock-up restrictions. See Shares Eligible for Future Sale and Underwriting.   
+
+
+ 
+ In addition, we have instructed The Bank of New York, as depositary, and The Bank of New York has agreed, not to accept any deposit of any
+ordinary shares or issue any ADSs for 180 days after the date of this prospectus (other than in connection with this offering), unless we otherwise instruct. As a result, ADS holders who cancel their ADSs and withdraw the underlying ordinary shares
+will not be able to re-deposit such shares for issuance of ADSs until the expiration of the 180-day period described above. See Shares Eligible for Future Sale and Underwriting.   
+
+
+ Risk factors 
+ See Risk Factors and other information included in this prospectus for a discussion of risks you should carefully consider before
+investing in our ADSs.    The number of Class A
+ordinary shares that will be outstanding immediately after this offering excludes:   
+
+
+ 
+
+ 
+1,963,996 Class A ordinary shares issuable upon the exercise of options outstanding as of the date of this prospectus, at a weighted average exercise price of US$4.43 per share; and
+  
+
+
+ 
+
+ 
+1,214,984 Class A ordinary shares reserved for future issuance under our 2000 option plan.   
+7 
+
+
+Table of Contents
+SUMMARY CONSOLIDATED FINANCIAL DATA    The following summary consolidated statement of operations data for the years ended December 31, 2002, 2003 and 2004 and the
+summary consolidated balance sheet data as of December 31, 2004 have been derived from our audited consolidated financial statements included elsewhere in this prospectus. The summary consolidated statement of operations data for the three months
+ended March 31, 2004 and 2005 and the summary consolidated balance sheet data as of March 31, 2005 have been derived from our unaudited consolidated financial statements included elsewhere in this prospectus. We have prepared the unaudited
+consolidated financial information on the same basis as our audited consolidated financial statements. The unaudited financial information includes all adjustments, consisting only of normal and recurring adjustments, that we consider necessary for
+a fair presentation of our financial position and operating results for the periods presented. Our historical results do not necessarily indicate results expected for any future periods. In addition, our unaudited results for the three months ended
+March 31, 2005 may not be indicative of our results for the full year ended December 31, 2005.    You should read the summary consolidated financial information for those periods and as of those dates in conjunction with those statements and the accompanying notes and Managements Discussion and
+Analysis of Financial Condition and Results of Operations. Our consolidated financial statements are prepared and presented in accordance with generally accepted accounting principles in the United States, or U.S. GAAP.   
+  
+8 
+
+
+Table of Contents
+
+
+(1)
+Include share-based compensation expenses as follows:   
+  
+
+
+(2)
+Each ADS represents one Class A ordinary share.
+
+
+(3)
+As holders of Class A and Class B ordinary shares have the same dividend right and the same participation right in our undistributed earnings, the basic and diluted pro forma
+earnings per share of Class A and Class B ordinary shares are the same for all the periods presented.    The following table presents a summary of our consolidated balance sheet data as of December 31, 2004 and March 31, 2005:   
+
+
+ 
+
+ 
+on an actual basis;   
+
+
+ 
+
+ 
+on a pro forma basis to give effect to the conversion of all of our 11,548,682 outstanding ordinary shares as of March 31, 2005 into 11,548,682 Class B ordinary shares on May 30,
+2005 and the automatic conversion of all of our outstanding preferred shares into 16,648,877 Class B ordinary shares immediately prior to the closing of this offering; and   
+
+
+ 
+
+ 
+on a pro forma as adjusted basis to reflect the conversion of all of our 11,548,682 outstanding ordinary shares as of March 31, 2005 into 11,548,682 Class B ordinary shares on May
+30, 2005 and the automatic conversion of all of our outstanding preferred shares into 16,648,877 Class B ordinary shares immediately prior to the closing of this offering, the issuance and sale of 3,208,696 Class A ordinary shares by us in this
+offering, and the sale of 831,706 Class B ordinary shares by certain selling shareholders in this offering which will convert into 831,706 Class A ordinary shares, at the initial public offering price of US$27.00 per share, after deducting the
+underwriting discounts and commissions and estimated offering expenses payable by us.   
+  
+9 
+
+
+Table of Contents
+
