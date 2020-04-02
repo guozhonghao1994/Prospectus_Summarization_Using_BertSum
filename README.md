@@ -18,14 +18,14 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 
 ### [Preparation](#readme)
 We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf) and [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf). The author has given us well-trained models and preprocessed data already. We can directly download from her Google Drive.
-#### [Download the processed data](#Preparation)
+#### Download the processed data
 [Pre-processed data](https://drive.google.com/file/d/1DN7ClZCCXsk2KegmC6t4ClBwtAf5galI/view), unzip the zipfile and put all .pt files into `./bert_data`
-#### [Trained models](#Preparation)
+#### Trained models
 [CNN/DM Extractive](https://drive.google.com/file/d/1kKWoV0QCbeIuFt85beQgJ4v0lujaXobJ/view), unzip the zipfile and put .pt file into `./models/ext`
 
 [CNN/DM Abstractive](https://drive.google.com/file/d/1-IKVCtc4Q-BdZpjXc4s70_fRsWnjtYLr/view), unzip the zipfile and put .pt file into `./models/abs`
 
-#### [Package Requirements](#Preparation)
+#### Package Requirements
 Python 3.6
 
 `torch==1.1.0` `pytorch_transformers` `tensorboardX` `multiprocess pyrouge`
