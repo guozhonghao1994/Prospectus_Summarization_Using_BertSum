@@ -20,6 +20,9 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 - *You should manually adjust the format of cleaned text file. For example, you should delete the last [CLS][SEP] for each paragraph, you should delete [CLS][SEP] in decimals, names, etc.*
 - *You should delete the space in file name when running BertSum.*
 
+### [TextRank & TextTeaser](#readme)
+We compare the performance of BertSum with TextRank & TextTeaser. In `./textrank` and `./textteaser` folder, you will see code, raw text and summarized text. Notice that this two models are just for reference. We would like to show how powerful BertSum is when comparing with obsolete algos.
+
 ### [Preparation](#readme)
 We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf) and [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf). The [author](https://github.com/nlpyang/PreSumm/tree/dev) has given us well-trained models and preprocessed data already. We can directly download from her Google Drive.
 #### Download the processed data
