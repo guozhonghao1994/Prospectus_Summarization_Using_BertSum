@@ -23,7 +23,7 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 ### [TextRank & TextTeaser](#readme)
 We compare the performance of BertSum with TextRank & TextTeaser. In `./textrank` and `./textteaser` folder, you will see code, raw text and summarized text. Notice that this two models are just for reference. We would like to show how powerful BertSum is when comparing with obsolete algos.
 
-|   |TestTeaser & TestRank|BertSUm|
+|models|TestTeaser & TestRank|BertSum|
 |---|---|---|
 |Categories|Extractive Only|Extractive & Abstractive|
 |Unit of Summarization|Sentences|Flexible|
