@@ -23,6 +23,13 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 ### [TextRank & TextTeaser](#readme)
 We compare the performance of BertSum with TextRank & TextTeaser. In `./textrank` and `./textteaser` folder, you will see code, raw text and summarized text. Notice that this two models are just for reference. We would like to show how powerful BertSum is when comparing with obsolete algos.
 
+|   |TestTeaser & TestRank|BertSUm|
+|---|---|---|
+|Categories|Extractive Only|Extractive & Abstractive|
+|Unit of Summarization|Sentences|Flexible|
+|Dealing with Polysemy Problem|No|Yes|
+|Training series for different cases|No|Yes|
+
 ### [Preparation](#readme)
 We borrowed the idea from [Fine-tune BERT for Extractive Summarization](https://arxiv.org/pdf/1903.10318.pdf) and [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387.pdf). The [author](https://github.com/nlpyang/PreSumm/tree/dev) has given us well-trained models and preprocessed data already. We can directly download from her Google Drive.
 #### Download the processed data
