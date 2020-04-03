@@ -1,0 +1,176 @@
+In addition to this summary, we urge you to read the entire prospectus carefully, especially the risks of investing in the ADSs discussed under Risk Factors, before deciding whether to invest in the ADSs.
+score: 0.10079902413412273
+order: 1
+----------------------------------------
+We refer to this report as the Frost & Sullivan Report.
+score: 0.1153208679593721
+order: 3
+====================================================================================================
+Our K-12 courses cover all primary and secondary grades, and contributed over 73% and 79%, respectively, of our total revenues in 2018 and in the nine months ended September 30, 2019.
+score: 0.11524129191676441
+order: 2
+----------------------------------------
+Driven by rapid growth and operational efficiency of our business, we achieved profitability in 2018.
+score: 0.11704787234042553
+order: 6
+====================================================================================================
+Our education excellence is backed by our high quality teachers and in-house curriculum development expertise.
+score: 0.15158631616709184
+order: 1
+----------------------------------------
+As of September 30, 2019, we had 209 instructors, including 149 full-time instructors and 60 full-time exclusively contracted instructors, and 2,574 tutors.
+score: 0.1329017313601577
+order: 4
+====================================================================================================
+The strong demand for high-quality education resources nationwide drives the growth of online K-12 large-class after-school tutoring market in China.
+score: 0.26089412360688957
+order: 1
+----------------------------------------
+Despite its short history, the online K-12 large-class after-school tutoring market is already more consolidated than the offline market.
+score: 0.21349043089275926
+order: 4
+====================================================================================================
+We intend to enhance student engagement and increase our paid course enrollment by pursuing the following strategies: continue to enhance the quality of our education services and students learning experience; attract and develop our teaching talent; strengthen our technologies and data analytics capabilities; expand our course offerings; and enhance our brand recognition.
+score: -0.03014656731676628
+order: 0
+====================================================================================================
+We face risks and uncertainties in realizing our business objectives and executing our strategies, including those relating to: our limited operating history with our current business model, which makes it difficult to predict our prospects and our business and financial performance; our ability to attract students to purchase our course packages and to increase the spending of our students; our ability to manage our growth and execute our growth strategies effectively; our ability to engage, train and retain high quality teaching staff; our reliance on certain top quality instructors; our past net loss and uncertainty over whether we can remain profitable or increase profitability in the future; the intense competition that we face, which could divert students to our competitors, leading to pricing pressure and loss of market share, and significantly reduced net revenues; new legislation or proposed changes in the PRC regulatory requirements regarding online private education; the development of regulatory requirements on operating licenses and permits for our online education services in China; and our ability to improve or maintain our sales and marketing efficiency.
+score: -0.843578891620421
+order: 0
+====================================================================================================
+Corporate History and Structure We commenced operations through Beijing BaiJiaHuLian Technology Co., Ltd., or Beijing BaiJiaHuLian, in June 2014.
+score: 0.22353615176995745
+order: 1
+----------------------------------------
+Our holding company, BaiJiaHuLian Group Holdings Limited, was incorporated in August 2014 in the Cayman Islands to facilitate financing and offshore listing.
+score: 0.1521528462634232
+order: 2
+====================================================================================================
+In August 2014, we established a wholly-owned subsidiary in Hong Kong, BaiJiaHuLian HK Holdings Limited.
+score: 0.28840625
+order: 0
+----------------------------------------
+In January 2015, BaiJiaHuLian HK Holdings Limited established a wholly-owned subsidiary in China, Beijing Lexuebang Network Technology Co., Ltd., or Beijing Lexuebang.
+score: 0.4481490909090909
+order: 1
+====================================================================================================
+In April 2015, we gained control over Beijing BaiJiaHuLian through Beijing Lexuebang by entering into a series of contractual arrangements with Beijing BaiJiaHuLian and its shareholders.
+score: 0.542545096948506
+order: 0
+----------------------------------------
+The contractual arrangements with Beijing BaiJiaHuLian were subsequently amended and restated in March 2019.
+score: 0.3709224192001181
+order: 1
+====================================================================================================
+On June 6, 2019, our ADSs commenced trading on the NYSE under the symbol GSX.
+score: 0.09676636464497042
+order: 0
+----------------------------------------
+We raised from our initial public offering and from exercising the over-allotment option by the underwriters approximately US$191.2 million in net proceeds after deducting underwriting commissions and the offering expenses payable by us.
+score: 0.08821942030325443
+order: 1
+====================================================================================================
+Please refer to the beneficial ownership table in the section captioned Principal and Selling Shareholders for more information.
+score: 0.1325
+order: 1
+----------------------------------------
+(2) Shareholders of Beijing BaiJiaHuLian and their respective shareholdings in Beijing BaiJiaHuLian and relationship with our company are Larry Xiangdong Chen (98.28%), chairman of our board of directors and our chief executive officer, and Bin Luo (1.72%), our employee.
+score: 0.03668042660271247
+order: 2
+====================================================================================================
+The following diagram sets forth the shareholding structure of our company immediately after this offering: Notes: * The computation of beneficial ownership percentages assumes that the underwriters do not exercise their over-allotment option.
+score: 0.06541435185185185
+order: 0
+----------------------------------------
+The shareholding percentages do not take into account the different votes that Class A ordinary shares and Class B ordinary shares are entitled to.
+score: 0.19455685131195338
+order: 2
+====================================================================================================
+(1) We expect the shareholding structure of our subsidiaries and variable interest entities will remain the same immediately after the completion of this offering.
+score: 0.1
+order: 0
+----------------------------------------
+An emerging growth company may take advantage of specified reduced reporting and other requirements compared to those that are otherwise applicable generally to public companies.
+score: 0.15644329337459914
+order: 2
+====================================================================================================
+This decision to opt out of the extended transition period under the JOBS Act is irrevocable.
+score: 0.10927734375
+order: 0
+----------------------------------------
+Once we cease to be an emerging growth company, we will not be entitled to the exemptions provided in the JOBS Act discussed above.
+score: 0.12768121301775148
+order: 2
+====================================================================================================
+ADSs outstanding immediately after this offering 38,532,000 ADSs (or 41,232,000 ADSs if the underwriters exercise their option to purchase additional ADSs in full).
+score: 0.1918863588053991
+order: 2
+----------------------------------------
+The ADSs Three ADSs represent two Class A ordinary shares, par value US$0.0001 per share.
+score: 0.19304748113508344
+order: 4
+====================================================================================================
+If, however, we declare dividends on our ordinary shares, the depositary will pay you the cash dividends and other distributions it receives on our ordinary shares after deducting its fees and expenses in accordance with the terms set forth in the deposit agreement.
+score: 0.13868857429008402
+order: 1
+----------------------------------------
+You may surrender your ADSs to the depositary in exchange for Class A ordinary shares.
+score: 0.18024904127100075
+order: 2
+====================================================================================================
+We may amend or terminate the deposit agreement without your consent.
+score: 0.32109222412109373
+order: 0
+----------------------------------------
+If you continue to hold your ADSs after an amendment to the deposit agreement, you agree to be bound by the deposit agreement as amended.
+score: 0.6205078125
+order: 1
+====================================================================================================
+You should also read the deposit agreement, which is filed as an exhibit to the registration statement that includes this prospectus.
+score: 0.15224017548195748
+order: 1
+----------------------------------------
+Option to purchase additional ADSs Certain selling shareholders have granted to the underwriters an option, exercisable within 30 days from the date of this prospectus, to purchase up to an aggregate of 2,700,000 additional ADSs.
+score: 0.12988922991071428
+order: 2
+====================================================================================================
+We will not receive any of the proceeds from the sale of ADSs by the selling shareholders.
+score: 0.16448287339627207
+order: 0
+----------------------------------------
+Lock-up We, our directors, executive officers, and the selling shareholders have agreed with the underwriters not to sell, transfer or dispose of any ADSs, ordinary shares or similar securities for a period of 90 days after the date of this prospectus.
+score: 0.04983521160521823
+order: 1
+====================================================================================================
+Listing Our ADSs are listed on the New York Stock Exchange under the symbol GSX.
+score: 0.19018253780718333
+order: 1
+----------------------------------------
+Our ADSs and our ordinary shares will not be listed on any other stock exchange or traded on any automated quotation system.
+score: 0.19724096172022687
+order: 2
+====================================================================================================
+The underwriters expect to deliver the ADSs against payment therefor through the facilities of The Depository Trust Company on November 25, 2019.
+score: 0.23590198863636364
+order: 0
+----------------------------------------
+Depositary Deutsche Bank Trust Company Americas.
+score: 0.21435185185185188
+order: 1
+====================================================================================================
+We have prepared the unaudited condensed consolidated financial statements on the same basis as our audited consolidated financial statements.
+score: 0.31676385176809213
+order: 2
+----------------------------------------
+You should read this Summary Consolidated Financial Data section together with our consolidated financial statements and the related notes and Managements Discussion and Analysis of Financial Condition and Results of Operations included elsewhere in this prospectus.
+score: 0.2173313830632976
+order: 5
+====================================================================================================
+Notes: (1) Share-based compensation expenses are in cost of revenues and operating expenses as follows: (2) For discussions of gross billings and reconciliation of gross billings to net revenues, see Managements Discussion and Analysis of Financial Condition and Results of OperationsNon-GAAP Financial Measure.
+score: -0.01819311647999043
+order: 0
+----------------------------------------
+The following table presents our summary consolidated balance sheets data as of December 31, 2017 and 2018 and September 30, 2019: The following table presents our summary consolidated cash flow data for the years ended December 31, 2017 and 2018 and for the nine months ended September 30, 2018 and 2019: The following table presents summary operating data for the periods indicated:
+score: -0.006384107801649299
+order: 1
+====================================================================================================

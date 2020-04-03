@@ -1,0 +1,156 @@
+Overview We design, develop, manufacture and sell high-performance fully electric vehicles and advanced electric vehicle powertrain components.
+score: 0.15305100253741294
+order: 3
+----------------------------------------
+We are designing the Model X to incorporate the functionality of a minivan with the consumer appeal of a sports utility vehicle.
+score: 0.1594156310452485
+order: 12
+====================================================================================================
+In addition to developing our own vehicles, we provide services for the development of electric powertrain components and sell electric powertrain components to other automotive manufacturers.
+score: 0.14386070853462157
+order: 0
+----------------------------------------
+We also have a development services agreement to produce a validated electric powertrain system for Toyota Motor Corporation (Toyota) for use in its RAV4 EV.
+score: 0.16451390347499362
+order: 2
+====================================================================================================
+Our roots in Silicon Valley have enabled us to recruit engineers with strong skills in electrical engineering, power electronics and software engineering.
+score: 0.1855778851990657
+order: 1
+----------------------------------------
+Our ability to combine expertise in electric powertrain and vehicle engineering provides a broad capability in electric vehicle design and systems integration.
+score: 0.19609311286768102
+order: 3
+====================================================================================================
+Our Tesla stores do not carry large vehicle inventories and, as a result, do not require corresponding large floor spaces.
+score: 0.18262499999999998
+order: 2
+----------------------------------------
+We believe that this approach provides us with a competitive advantage as compared to incumbent automobile manufacturers.
+score: 0.12625
+order: 4
+====================================================================================================
+To date, our customers have driven the Tesla Roadster for an estimated aggregate of over 11.0 million miles.
+score: 0.1758376856183179
+order: 2
+----------------------------------------
+We have developed extensive software systems to manage the overall efficiency, safety and controls within our vehicles.
+score: 0.16844336670838547
+order: 3
+====================================================================================================
+Accordingly, we currently intend to target an annual production rate of approximately 20,000 cars per year from our planned manufacturing facility in Fremont, California.
+score: 0.17781822881755038
+order: 1
+----------------------------------------
+The drivable early prototype of the Model S was exhibited to the public in March 2009.
+score: 0.15233542899408287
+order: 2
+====================================================================================================
+We also plan to manufacture our Model X crossover in our Fremont, California facility.
+score: 0.14274673008323424
+order: 0
+----------------------------------------
+We anticipate that we will make the Model X available with three range variants, with pricing of each variant similar to those of the Model S. We currently intend to target an annual production rate of approximately 10,000 -15,000 cars per year.
+score: 0.06989447086801426
+order: 1
+====================================================================================================
+Our electric powertrain consists of the following: battery pack, power electronics, motor, gearbox and the control software which enables the components to operate as a system.
+score: 0.1570595077640754
+order: 1
+----------------------------------------
+This design contains far fewer moving parts than a gasoline powertrain.
+score: 0.1456198347107438
+order: 2
+====================================================================================================
+Our proprietary technology includes cooling systems, safety systems, charge balancing systems, battery engineering for vibration and environmental durability, customized motor design and the software and electronics management systems necessary to manage battery and vehicle performance under demanding real-life driving conditions.
+score: 0.027651015411678217
+order: 0
+----------------------------------------
+We are designing our vehicles to enable the cost effective development of our future vehicles.
+score: 0.11172465737240075
+order: 2
+====================================================================================================
+As a result, we believe our Tesla Roadster customers enjoy, and Model S customers will enjoy, several benefits, including: Long Range and Recharging Flexibility.
+score: 0.12641678472201517
+order: 3
+----------------------------------------
+The range of the Tesla Roadster is almost double the range of any other commercially available electric vehicle.
+score: 0.13945682644215163
+order: 4
+====================================================================================================
+Using only a single electric powertrain enables us to create a lighter, more energy efficient vehicle that is mechanically simpler than currently available hybrid or internal combustion engine vehicles.
+score: 0.13237413298666795
+order: 2
+----------------------------------------
+We believe the Tesla Roadster delivers an unparalleled driving experience with instantaneous and sustained acceleration through an extended range of speed.
+score: 0.13265339663988313
+order: 8
+====================================================================================================
+We were incorporated in 2003 and began selling the Tesla Roadster in 2008.
+score: 0.17016657207086894
+order: 0
+----------------------------------------
+As of March 31, 2011, we had 1,010 employees worldwide.
+score: 0.24803240740740742
+order: 1
+====================================================================================================
+Since inception through March 31, 2011, we had generated $292.5 million in revenue.
+score: 0.17683802045288535
+order: 0
+----------------------------------------
+As of March 31, 2011, we had an accumulated deficit of $463.9 million and had experienced net losses of $82.8 million for the year ended December 31, 2008, $55.7 million for the year ended December 31, 2009, $154.3 million for the year ended December 31, 2010, and $48.9 million for the three months ended March 31, 2011.
+score: 0.3416019724827958
+order: 1
+====================================================================================================
+These risks are discussed more fully in the section entitled Risk Factors following this prospectus summary.
+score: 0.14250000000000002
+order: 1
+----------------------------------------
+Our principal executive offices are located at 3500 Deer Creek Road, Palo Alto, California 94304, and our telephone number at this location is (650) 681-5000.
+score: 0.12875
+order: 3
+====================================================================================================
+We will receive the full proceeds and will not pay any underwriting discounts or commissions with respect to the shares that are sold in the private placement.
+score: 0.13546335326601966
+order: 2
+----------------------------------------
+We refer to the private placement of these shares of common stock as the concurrent private placement.
+score: 0.19765331541890357
+order: 4
+====================================================================================================
+The historical results presented below are not necessarily indicative of financial results to be achieved in future periods.
+score: 0.17
+order: 3
+----------------------------------------
+This convertible preferred stock warrant became a warrant to purchase shares of our common stock upon the closing of our initial public offering (IPO).
+score: 0.11773412960769926
+order: 12
+====================================================================================================
+(3) Our basic net loss per share of common stock is calculated by dividing the net loss by the weighted-average number of shares of common stock outstanding for the period.
+score: 0.5139784523435043
+order: 0
+====================================================================================================
+The diluted net loss per share of common stock is computed by dividing the net loss by the weighted-average number of shares of common stock, excluding common stock subject to repurchase, and, if dilutive, potential shares of common stock outstanding during the period.
+score: 0.21887973758020446
+order: 0
+----------------------------------------
+Potential shares of common stock consist of stock options to purchase shares of our common stock and warrants to purchase shares of our convertible preferred stock (using the treasury stock method) and the conversion of our convertible preferred stock and convertible notes payable (using the if-converted method).
+score: 0.15830068863551605
+order: 1
+====================================================================================================
+(2) The restricted cash represents primarily the portion of the proceeds from our IPO that we are required to hold in a separate dedicated account pursuant to our DOE Loan Facility to fund certain costs of our powertrain and Model S manufacturing facility projects.
+score: -0.005561252329025372
+order: 0
+----------------------------------------
+Restricted cash also includes security deposits related to lease agreements, equipment financing, as well as security held by a vendor as part of the vendors standard credit policies.
+score: 0.10651455026455026
+order: 1
+====================================================================================================
+Under such facility, the FFB has made available to us two multi-draw term loan facilities in an aggregate principal amount of up to $465.0 million.
+score: 0.17330739012287336
+order: 1
+----------------------------------------
+See the section titled BusinessGovernmental Programs, Incentives and RegulationsUnited States Department of Energy Loans below for additional information.
+score: 0.1225
+order: 4
+====================================================================================================

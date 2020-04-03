@@ -1,0 +1,188 @@
+You must not rely on any unauthorized information or representations.
+score: 0.11545005202913632
+order: 1
+----------------------------------------
+The information contained in this prospectus is current only as of its date.
+score: 0.14666103017689908
+order: 3
+====================================================================================================
+Neither we nor any of the underwriters has done anything that would permit this offering or possession or distribution of this prospectus or any filed free writing prospectus in any jurisdiction where action for that purpose is required, other than in the United States.
+score: 0.15792014533085963
+order: 0
+----------------------------------------
+Persons outside the United States who come into possession of this prospectus or any filed free writing prospectus must inform themselves about, and observe any restrictions relating to, the offering of the ADSs and the distribution of this prospectus or any filed free writing prospectus outside of the United States.
+score: 0.342889996907854
+order: 1
+====================================================================================================
+Until April 1, 2019 (the 25th day after the date of this prospectus), all dealers that buy, sell or trade ADSs, whether or not participating in this offering, may be required to deliver a prospectus.
+score: 0.09410601417812955
+order: 0
+----------------------------------------
+This is in addition to the obligation of dealers to deliver a prospectus when acting as underwriters and with respect to their unsold allotments or subscriptions.
+score: 0.12600314349112426
+order: 1
+====================================================================================================
+Our Business We are an advanced technology company transforming the investing experience by offering a fully digitized brokerage platform.
+score: 0.1410316387236344
+order: 4
+----------------------------------------
+Technology permeates every part of our business, allowing us to offer a redefined user experience built upon an agile, stable, scalable and secure platform.
+score: 0.1125
+order: 5
+====================================================================================================
+We launched our business on the premise that no one should be precluded from investing on the basis of prohibitive transaction costs or market inexperience.
+score: 0.0938304577693393
+order: 0
+----------------------------------------
+Over the last eight years we have continuously enhanced our technology and built a comprehensive, user-oriented and cloud-based platform that is fully-licensed to conduct securities brokerage business in Hong Kong.
+score: 0.08953167583370497
+order: 2
+====================================================================================================
+We broaden our reach and promote the exchange of information through NiuNiu Community, our social network services.
+score: 0.15325884650735294
+order: 3
+----------------------------------------
+Importantly, our social network serves as a powerful engagement tool where in December 2018, the average DAUs reached over 151,000.
+score: 0.14263671875
+order: 7
+====================================================================================================
+We have a young, active and rapidly expanding user and client base.
+score: 0.20756195335276967
+order: 0
+----------------------------------------
+Our clients are, on average, 35 years old and generally high earning.
+score: 0.10208864795918367
+order: 1
+====================================================================================================
+Financial assets accounted for the largest allocation of overseas investment in 2018, among which stock investment reached US$262.0 billion, representing a CAGR of 34.1% from 2012 to 2018.
+score: 0.11236636012429664
+order: 1
+----------------------------------------
+Hong Kong market is particularly favored by China-based investors, because of its geographical and cultural proximity to China as well as the large number of listed Chinese companies.
+score: 0.11736625514403291
+order: 2
+====================================================================================================
+In 2018, the trading volume of Chinas overseas online retail securities market reached US$451.6 billion, growing at a CAGR of 83.7% from 2012 to 2018.
+score: 0.17748824010213504
+order: 1
+----------------------------------------
+The market size is expected to reach nearly US$1.8 trillion in 2023, representing a CAGR of 31.6% from 2018 to 2023.
+score: 0.13875330802334784
+order: 2
+====================================================================================================
+We intend to pursue the following strategies to further expand our business: grow and monetize our client base; broaden our core service offerings; broaden our financial services footprint; and invest in our platform.
+score: 0.15028409090909095
+order: 0
+====================================================================================================
+For more details, see Corporate History and StructureContractual Arrangements with Our VIE and Its Shareholders.
+score: 0.12883486047480217
+order: 1
+----------------------------------------
+As a result of our direct ownership in our PRC WFOEs and the variable interest entity contractual arrangements, we are regarded as the primary beneficiary of our VIE.
+score: 0.14709715859132771
+order: 2
+====================================================================================================
+We operate our business mainly through Futu International Hong Kong, which is a HK SFC-regulated entity that holds the relevant licenses related to our securities brokerage business.
+score: 0.14187929274832664
+order: 1
+----------------------------------------
+In the past, compared to our total revenues and total assets, the revenues and assets of these subsidiaries were nominal.
+score: 0.15448696145124716
+order: 8
+====================================================================================================
+In addition, we established Futu Inc., Futu Clearing Inc. and Moomoo Inc., each a wholly-owned subsidiary of our company in the United States, in December 2015, August 2018 and March 2018, respectively, in order to improve our ability to offer investing services in overseas markets.
+score: 0.061855824892826955
+order: 0
+----------------------------------------
+As of the date of this prospectus, Futu Inc.
+score: 0.07083025147928994
+order: 1
+====================================================================================================
+and Moomoo Inc. have only recently commenced operations, and Futu Clearing Inc. has not yet commenced operations.
+score: 0.38145536534926466
+order: 0
+----------------------------------------
+The revenues and assets of these subsidiaries are nominal compared to the total assets of our company.
+score: 0.2032103893803615
+order: 1
+====================================================================================================
+Leaf Hua Li and Ms. Lei Li are beneficiary owners of our company and hold 85% and 15% equity interests, respectively, in Shenzhen Futu.
+score: 0.16423240361585412
+order: 1
+----------------------------------------
+Mr. Li is the founder, chairman and chief executive officer of our company and Ms. Li is Mr. Lis spouse.
+score: 0.22619171962321977
+order: 2
+====================================================================================================
+ADSs offered by us 7,500,000 ADSs (or 8,625,000 ADSs if the underwriters exercise their over-allotment option in full).
+score: 0.15795566502463054
+order: 1
+----------------------------------------
+ADSs outstanding immediately after this offering 7,500,000 ADSs (or 8,625,000 ADSs if the underwriters exercise their over-allotment option in full).
+score: 0.1869447587298891
+order: 2
+====================================================================================================
+You may turn in your ADSs to the depositary in exchange for Class A ordinary shares.
+score: 0.16601903778040142
+order: 2
+----------------------------------------
+If you continue to hold your ADSs after an amendment to the deposit agreement, you agree to be bound by the deposit agreement as amended.
+score: 0.17922778925619837
+order: 5
+====================================================================================================
+Our ordinary shares will be divided into Class A ordinary shares and Class B ordinary shares immediately prior to the completion of this offering.
+score: 0.4371916666666667
+order: 3
+----------------------------------------
+Holders of Class A ordinary shares and Class B ordinary shares will have the same rights except for voting and conversion rights.
+score: 0.36893924195660305
+order: 4
+====================================================================================================
+Class A ordinary shares are not convertible into Class B ordinary shares under any circumstances.
+score: 0.17109793277810828
+order: 0
+----------------------------------------
+Upon any sale, transfer, assignment or disposition of any Class B ordinary shares by a holder thereof to any non-affiliate of such holder, each of such Class B ordinary shares will be automatically and immediately converted into one Class A ordinary share.
+score: 0.16097612959107233
+order: 1
+====================================================================================================
+Listing The ADSs have been approved for listing on the Nasdaq Global Market under the symbol FHL.
+score: 0.11624999999999999
+order: 10
+----------------------------------------
+The ADSs and our ordinary shares will not be listed on any other stock exchange or traded on any automated quotation system.
+score: 0.15328626756950856
+order: 11
+====================================================================================================
+The underwriters expect to deliver the ADSs against payment therefor through the facilities of the Depository Trust Company on March 12, 2019.
+score: 0.1125
+order: 0
+----------------------------------------
+Depositary The Bank of New York Mellon.
+score: 0.06375
+order: 1
+====================================================================================================
+Our consolidated financial statements are prepared and presented in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP.
+score: 0.18552634725765307
+order: 1
+----------------------------------------
+Our historical results are not necessarily indicative of results expected for future periods.
+score: 0.10141815808354593
+order: 2
+====================================================================================================
+Non-GAAP Measures We use adjusted net (loss)/income, a non-GAAP financial measure, in evaluating our operating results and for financial and operational decision-making purposes.
+score: 0.18591017232510287
+order: 0
+----------------------------------------
+Adjusted net (loss)/income represents net (loss)/income excluding share-based compensation expenses, and such adjustment has no impacts on income tax.
+score: 0.2737044270833333
+order: 1
+====================================================================================================
+Investors are encouraged to review the historical non-GAAP financial measures to the most directly comparable GAAP measures.
+score: 0.20564839756279576
+order: 1
+----------------------------------------
+The table below sets forth a reconciliation of our adjusted net (loss)/income to net (loss)/income for the years indicated.
+score: 0.22559917355371903
+order: 5
+====================================================================================================

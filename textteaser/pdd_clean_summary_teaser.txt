@@ -1,0 +1,232 @@
+Our industry involves a high degree of uncertainty and risk due to a variety of factors, including those described in the "Risk Factors" section.
+score: 0.12837781010841837
+order: 3
+----------------------------------------
+These and other factors could cause results to differ materially from those expressed in these publications and reports.
+score: 0.12996704931972788
+order: 4
+====================================================================================================
+We are one of the leading Chinese e-commerce players in terms of GMV and the number of total orders.
+score: 0.1378822886430436
+order: 3
+----------------------------------------
+Our GMV in 2017 and 2018 was RMB141.2 billion (US$20.6 billion) and RMB471.6 billion (US$68.7 billion), respectively.
+score: 0.1403381893860562
+order: 4
+====================================================================================================
+Buyers can access our platform and make team purchases by either visiting our platform directly or through popular social networks, such as Weixin and QQ.
+score: 0.1707599937559783
+order: 1
+----------------------------------------
+In 2017 and 2018, the number of active buyers on our platform reached 245 million and 418 million, respectively.
+score: 0.13273554575406527
+order: 6
+====================================================================================================
+Our large and highly active buyer base has helped attract merchants to our platform, and the scale of our sales volume has encouraged merchants to offer even more competitive prices and customized products and services to buyers, thus forming a virtuous cycle.
+score: 0.01085255102040816
+order: 0
+----------------------------------------
+In 2018, we had 3.6 million active merchants on our platform, offering a broad range of product categories.
+score: 0.1620408163265306
+order: 1
+====================================================================================================
+We have consciously built our platform to resemble a "virtual bazaar" where buyers browse and explore a full spectrum of products while interacting with one another.
+score: 0.145
+order: 1
+----------------------------------------
+In contrast to the conventional search-based "inventory index" model, our platform brings out the fun and excitement of discovery and shopping.
+score: 0.1450283265044521
+order: 2
+====================================================================================================
+We can channel user preferences based on our predictive model to merchants so that they can adjust their production, inventory planning, sales plans, and logistics services accordingly.
+score: 0.10179438908894857
+order: 1
+----------------------------------------
+As a result, upstream suppliers can be more tightly connected and better informed of consumer demand, transformed by the "C2M" (Consumer-to-Manufacturer) model.
+score: 0.14271070075757575
+order: 2
+====================================================================================================
+Small-scale farmers in China have traditionally relied heavily on layers of distributors to market and sell their produce to the broader consumer base, which is highly inefficient.
+score: 0.140119992441421
+order: 1
+----------------------------------------
+We believe the current logistic penetration and solutions in China are capable of supporting basic fulfillment and delivery for most of the agricultural products.
+score: 0.11751687755246656
+order: 5
+====================================================================================================
+The strong and extensive technology background of our senior management team has led us to the forefront of the e-commerce industry.
+score: 0.15467455621301773
+order: 1
+----------------------------------------
+We have developed our own proprietary technology infrastructure that seamlessly connects our platform with buyers and merchants and supports our business growth.
+score: 0.13388199966099606
+order: 2
+====================================================================================================
+This business no longer generates revenues after we fully transitioned into our current marketplace model in the first quarter of 2017.
+score: 0.16386503307977845
+order: 2
+----------------------------------------
+We incurred net loss of RMB292.0 million and RMB525.1 million (US$76.5 million) in 2016 and 2017, respectively.
+score: 0.17653288929584118
+order: 5
+====================================================================================================
+China's retail market is expected to continue to experience strong growth, and the overall retail market size is expected to exceed RMB48.0 trillion (US$7.0 trillion) in 2020, according to the Ministry of Commerce's 13th Five-Year Plan for Domestic Trade.
+score: 0.11072549778746132
+order: 1
+----------------------------------------
+Online shopping has been embraced by consumers in China and grown at an even faster rate.
+score: 0.12011836124905312
+order: 2
+====================================================================================================
+First, mobile shopping has become the dominant form of online retail in China, as consumers increasingly use their fragmented time to browse and shop anywhere, anytime.
+score: 0.16727590307715176
+order: 1
+----------------------------------------
+Second, the extensive logistics infrastructure and wide adoption of mobile payment have made mobile shopping increasingly efficient and convenient.
+score: 0.16552325864984388
+order: 2
+====================================================================================================
+The convenience of mobile shopping and payment presents an opportunity for merchants to continuously connect with consumers and enable consumers to make purchases.
+score: 0.16842154326793873
+order: 2
+----------------------------------------
+This creates a multitude of new consumption scenarios and greatly enables consumers to shop anywhere, anytime.
+score: 0.135
+order: 3
+====================================================================================================
+According to National Bureau of Statistics, China's total agricultural GDP reached RMB6,801 billion (US$990.2 billion) in 2017.
+score: 0.1687431257431629
+order: 1
+----------------------------------------
+However, China's agricultural market is highly fragmented and dispersed among small rural production sites that work independently from one another.
+score: 0.17286860879904875
+order: 2
+====================================================================================================
+According to the latest target set by the Ministry of Agriculture of China, total e-commerce sales of agricultural goods in China is expected to reach RMB800 billion (US$116.5 billion) in 2020 from RMB150 billion in 2015, representing a CAGR of 39.8%.
+score: 0.08832929890622197
+order: 0
+====================================================================================================
+We believe that the following strengths contribute to our success and differentiate us from our competitors: innovative "new e-commerce" platform with rapid growth; value-for-money merchandise with a strong focus on quality control; highly active buyer base cultivated by a fun and interactive shopping experience; strong commitment to technology; and experienced management team with extensive technology and operational background.
+score: -0.10217281414192611
+order: 0
+====================================================================================================
+We intend to pursue the following growth strategies: increase our buyer base and engagement; expand merchandise choices and offerings; enhance user trust, brand recognition and continue to adhere to strict quality control; further improve technology and distributed artificial intelligence capability; pursue select strategic investment and expansion opportunities; and attract and retain talents.
+score: -0.04376754589395568
+order: 0
+====================================================================================================
+Our ability to execute our strategies is subject to risks and uncertainties, including those relating to our ability to: maintain the growth that we have experienced to date; better understand buyer needs and provide products and services to attract and retain buyers; maintain and enhance the recognition and reputation of our brand; rely on merchants and third-party logistics service providers to provide delivery services to our buyers; continue growing our buyer base; maintain and further improve our quality control policies and measures; comply with evolving PRC laws and regulations; compete effectively; establish and maintain relationships with merchants; maintain the proper functioning of our technology infrastructure; and protect the data and confidential information of buyers, merchants and our network against security breaches.
+score: -0.4492324941096257
+order: 0
+====================================================================================================
+We commenced our commercial operations in 2015 through Hangzhou Aimi Network Technology Co., Ltd., or Hangzhou Aimi, and Shanghai Xunmeng Information Technology Co., Ltd., or Shanghai Xunmeng, in parallel.
+score: 0.4743622448979592
+order: 0
+----------------------------------------
+In June 2016, to streamline the operations of these two companies, Hangzhou Aimi obtained 100% equity interest in Shanghai Xunmeng, and Shanghai Xunmeng became a wholly-owned subsidiary of Hangzhou Aimi.
+score: 0.46710778061224495
+order: 1
+====================================================================================================
+In the same month, we established HongKong Walnut Street Limited, or Walnut HK, our wholly-owned Hong Kong subsidiary, and Walnut HK established a wholly-owned PRC subsidiary, Hangzhou Weimi Network Technology Co., Ltd., or Hangzhou Weimi.
+score: 0.24174196663379346
+order: 1
+----------------------------------------
+Walnut HK established two additional wholly-owned PRC subsidiaries, Walnut Street (Shanghai) Information Technology Co., Ltd.
+score: 0.23902574889053252
+order: 2
+====================================================================================================
+In July 2018, we renamed our company as Pinduoduo Inc. and listed our ADSs on the Nasdaq Global Select Market under the symbol "PDD."
+score: 0.1577282688093499
+order: 1
+----------------------------------------
+We have relied and expect to continue to rely on these contractual arrangements to conduct our business in China.
+score: 0.1410765157048941
+order: 4
+====================================================================================================
+The shareholders of our VIE may have potential conflicts of interest with us.
+score: 0.14035965140478668
+order: 1
+----------------------------------------
+Under PRC laws and regulations, our PRC subsidiaries may pay cash dividends to us out of their respective accumulated profits.
+score: 0.1630280957336108
+order: 3
+====================================================================================================
+They are either directors or employees of our company.
+score: 0.094734985664705
+order: 1
+----------------------------------------
+The remaining 8.9% equity interests in Hangzhou Aimi are held by Linzhi Tencent Technology Co., Ltd., which is an affiliate of one of our shareholders.
+score: 0.14080231843756064
+order: 2
+====================================================================================================
+The Pinduoduo Partnership, once effective, will be entitled to appoint Executive Directors and nominate and recommend the chief executive officer of our company.
+score: 0.2025764001637039
+order: 1
+----------------------------------------
+Such rights may limit our shareholders' ability to influence corporate matters, including any matters to be determined by our board of directors.
+score: 0.1593938800353902
+order: 2
+====================================================================================================
+Our registered office in the Cayman Islands is located at the offices of Vistra (Cayman) Limited, P.O.
+score: 0.1928472222222222
+order: 1
+----------------------------------------
+Box 31119 Grand Pavilion, Hibiscus Way, 802 West Bay Road, Grand Cayman, KY1-1205, Cayman Islands.
+score: 0.30423611111111115
+order: 2
+====================================================================================================
+Investors should submit any inquiries to the address and telephone number of our principal executive offices.
+score: 0.10908146243123613
+order: 0
+----------------------------------------
+Our agent for service of process in the United States is Puglisi & Associates, located at 850 Library Avenue, Suite 204, Newark, Delaware 19711.
+score: 0.12522928873697917
+order: 3
+====================================================================================================
+Our reporting currency is the Renminbi because our business is mainly conducted in China and all of our revenues are denominated in Renminbi.
+score: 0.12708661449714156
+order: 0
+----------------------------------------
+This prospectus contains translations of Renminbi amounts into U.S. dollars at specific rates solely for the convenience of the reader.
+score: 0.20179573615160348
+order: 1
+====================================================================================================
+Unless the context indicates otherwise, all information in this prospectus assumes no exercise by the underwriters of their option to purchase additional shares.
+score: 0.22193212697628462
+order: 0
+====================================================================================================
+Our consolidated financial statements are prepared and presented in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP.
+score: 0.17985
+order: 2
+----------------------------------------
+You should read this Summary Consolidated Financial Data and Operating Data section together with our audited consolidated financial statements and the related notes as well as unaudited interim consolidated financial statements and the related notes and "Management's Discussion and Analysis of Financial Condition and Results of Operations" included elsewhere in this prospectus.
+score: 0.14066436525033416
+order: 4
+====================================================================================================
+Note: (1)Share-based compensation expenses were allocated as follows: Note: (1)Restricted cash represents cash received from buyers and reserved in a bank supervised account for payments to merchants.
+score: 0.300952915582417
+order: 0
+====================================================================================================
+The presentation of these non-GAAP financial measures is not intended to be considered in isolation or as a substitute for the financial information prepared and presented in accordance with U.S. GAAP.
+score: 0.1710056001947894
+order: 1
+----------------------------------------
+We present these non-GAAP financial measures because they are used by our management to evaluate operating performance and formulate business plans.
+score: 0.21009274235625586
+order: 2
+====================================================================================================
+The non-GAAP financial measures are not defined under U.S. GAAP and are not presented in accordance with U.S. GAAP.
+score: 0.2341462939894114
+order: 0
+----------------------------------------
+The non-GAAP financial measures have limitations as analytical tools.
+score: 0.22318786982248523
+order: 1
+====================================================================================================
+We define non-GAAP operating loss as operating loss excluding share-based compensation expenses and impairment of long-term investment, and non-GAAP net loss as net loss attributable to ordinary shareholders excluding share-based compensation expenses and impairment of long-term investment.
+score: 0.5824712931855789
+order: 0
+====================================================================================================
+The table below sets forth a reconciliation of our operating loss to non-GAAP operating loss, and our net loss to non-GAAP net loss.
+score: 1.6391575470768018
+order: 0
+====================================================================================================

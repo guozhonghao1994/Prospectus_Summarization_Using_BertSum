@@ -1,0 +1,444 @@
+This summary may not contain all of the information that you should consider before investing in our ADSs.
+score: 0.14349696598639455
+order: 1
+----------------------------------------
+You should carefully read the entire prospectus, including Risk Factors and the financial statements, before making an investment decision.
+score: 0.14335749999999997
+order: 2
+====================================================================================================
+Our decisions are guided by how they serve our mission over the long-term, not by the pursuit of short-term gains.
+score: 0.14511574074074074
+order: 2
+----------------------------------------
+We operate our ecosystem as a platform for third parties, and we do not engage in direct sales, compete with our merchants or hold inventory.
+score: 0.10479166666666666
+order: 4
+====================================================================================================
+These three marketplaces, which comprise our China retail marketplaces, generated a combined GMV of RMB1,833 billion (US$296 billion) from 279 million active buyers and 8.5 million active sellers in the twelve months ended June 30, 2014.
+score: 0.12446727126435744
+order: 1
+----------------------------------------
+A significant portion of our customers have begun transacting on our mobile platform, and we are focused on capturing this opportunity.
+score: 0.13874999999999998
+order: 2
+====================================================================================================
+In addition to our three China retail marketplaces, which accounted for 81.6% of our revenues in fiscal year 2014, we operate Alibaba.com, Chinas largest global online wholesale marketplace in 2013 by revenue, according to iResearch, 1688.com, our China wholesale marketplace, and AliExpress, our global consumer marketplace, as well as provide cloud computing services.
+score: 0.0499289249269672
+order: 0
+====================================================================================================
+Our ecosystem has strong self-reinforcing network effects that benefit our marketplace participants, who are invested in our ecosystems growth and success.
+score: 0.13388605213652244
+order: 7
+----------------------------------------
+We have made significant investments in proprietary technologies and infrastructure in order to support our growing ecosystem.
+score: 0.1328005600251388
+order: 9
+====================================================================================================
+(1) For the three months ended June 30, 2014.
+score: 1.1096354166666669
+order: 0
+====================================================================================================
+(2) According to iResearch for the three months ended June 30, 2014.
+score: 0.584672619047619
+order: 0
+====================================================================================================
+(3) For the month ended June 30, 2014.
+score: 0.22242346938775515
+order: 0
+----------------------------------------
+The number of mobile MAUs increased from 136 million in the month ended December 31, 2013 to 163 million in the month ended March 31, 2014 and to 188 million in the month ended June 30, 2014.
+score: 0.4266847076668505
+order: 2
+====================================================================================================
+(4) For the twelve months ended June 30, 2014.
+score: 0.17044753086419753
+order: 0
+----------------------------------------
+Representing 54% of the 11.3 billion packages delivered in the twelve months ended June 30, 2014 by delivery services in China meeting certain minimum revenue thresholds, according to the State Post Bureau of the PRC.
+score: 0.12813819411041633
+order: 1
+====================================================================================================
+(5) Alibaba Cloud Computing processing capability as of December 31, 2013.
+score: 0.7941964285714285
+order: 0
+====================================================================================================
+(6) The sum of merchants on our (i) China retail marketplaces who paid fees and/or commissions to us in the twelve months ended June 30, 2014, plus (ii) wholesale marketplaces with current paid memberships as of June 30, 2014.
+score: 0.17103594405594405
+order: 0
+----------------------------------------
+A merchant may have more than one paying relationship with us.
+score: 0.08125
+order: 1
+====================================================================================================
+(7) Includes registered countries and territories of (i) buyers that sent at least one inquiry to a seller on Alibaba.com and (ii) buyers that settled at least one transaction on AliExpress through Alipay, in each case in the twelve months ended June 30, 2014, demonstrating the global reach and the potential for cross-border commerce opportunities across our marketplaces.
+score: -0.08409086188564244
+order: 0
+====================================================================================================
+(8) For the twelve months ended June 30, 2014.
+score: 0.24979166666666672
+order: 0
+----------------------------------------
+Approximately 29.7% of Alipays total payment volume in the twelve months ended June 30, 2014 represented payments processed for our China retail marketplaces.
+score: 0.317278594367589
+order: 1
+====================================================================================================
+(9) Marketing affiliates who received a revenue share from us in the three months ended December 31, 2013.
+score: 0.4814236111111111
+order: 0
+====================================================================================================
+(10) Based on data provided by our 14 strategic delivery partners as of June 30, 2014.
+score: 0.5403452932098765
+order: 0
+====================================================================================================
+The interactions between buyers and sellers create network effects in that more merchants attract more consumers, and more consumers attract more merchants.
+score: 0.20235020661157027
+order: 0
+----------------------------------------
+The chart below depicts this network effect dynamic in our ecosystem.
+score: 0.14476497933884297
+order: 2
+====================================================================================================
+Chinas real consumption in 2013 was 35.8% of total GDP, which is a rate that is significantly lower than that of other countries, such as the United States, which had a consumption penetration rate of 67.1% in 2013, according to Euromonitor International.
+score: 0.0075
+order: 1
+----------------------------------------
+We believe that growth in consumption will drive higher levels of online and mobile commerce.
+score: 0.10875
+order: 2
+====================================================================================================
+According to CNNIC, China had the worlds largest Internet population with 618 million users as of December 31, 2013.
+score: 0.2171906887755102
+order: 1
+----------------------------------------
+We believe the number of online shoppers will increase, driven by continued growth in the number of Internet users as well as by the higher percentage of Internet users making purchases online.
+score: 0.18646513080540855
+order: 3
+====================================================================================================
+We believe that consumers are expanding the categories of products and services they are purchasing online, which will further increase online and mobile commerce activity.
+score: 0.3010186928456159
+order: 0
+====================================================================================================
+We believe that the increased usage of mobile devices will make access to the Internet even more convenient, drive higher online shopper engagement and enable new applications.
+score: 0.13313586269667352
+order: 0
+----------------------------------------
+China has the worlds largest mobile Internet user base with 500 million users as of December 31, 2013, according to CNNIC, and mobile usage is expected to increase, driven by the growing adoption of mobile devices.
+score: 0.15981913061151393
+order: 1
+====================================================================================================
+Chinas offline retail market faces significant challenges due to few nationwide brick and mortar retailers, an underdeveloped physical retail infrastructure, limited product selection and inconsistent product quality.
+score: 0.19950385022142908
+order: 0
+----------------------------------------
+These challenges in Chinas retail infrastructure, which we believe are particularly acute outside of tier 1 and 2 cities, are causing consumers to leapfrog the offline retail market in favor of online and mobile commerce.
+score: 0.16875000000000007
+order: 1
+====================================================================================================
+China has an increasingly extensive and rapidly improving logistics infrastructure consisting of nationwide, regional and local delivery services.
+score: 0.1235341755749919
+order: 0
+----------------------------------------
+We believe that the rapid development of Chinas distributed logistics infrastructure and nationwide express delivery networks has been driven in part by the growth of e-commerce and will continue to support the unique demands of consumers and merchants conducting e-commerce transactions on marketplaces.
+score: 0.013980202034517511
+order: 1
+====================================================================================================
+Management Team with Owner Mentality and Proven Track Record.
+score: 0.13668245869776482
+order: 1
+----------------------------------------
+Our management team has created and grown leading businesses organically, including Taobao Marketplace, Tmall, Alibaba.com, Alibaba Cloud Computing and Alipay.
+score: 0.1554022133634795
+order: 3
+====================================================================================================
+Trusted Brands.
+score: 0.2954142011834319
+order: 0
+----------------------------------------
+Alibaba, Taobao, Tmall and Alipay are well recognized and trusted brands in China.
+score: 0.20227493660185966
+order: 1
+====================================================================================================
+Our Mobile Taobao App has been the most popular mobile commerce app in China by mobile MAUs every month since August 2012, according to iResearch.
+score: 0.1326787109375
+order: 4
+----------------------------------------
+For example, we successfully processed 254 million orders within 24 hours during our Singles Day promotion on November 11, 2013.
+score: 0.1625
+order: 13
+====================================================================================================
+Our exclusively third-party platform business model allows us to scale rapidly without the risks and capital requirements of sourcing, merchandising and holding inventory borne by direct sales companies.
+score: 0.10313802083333333
+order: 3
+----------------------------------------
+Our Strategies The key elements of our strategy to grow our business include: Increase Active Buyers and Wallet Share.
+score: 0.1290212673611111
+order: 5
+====================================================================================================
+Expand Categories and Offerings.
+score: 0.08389335281227173
+order: 0
+----------------------------------------
+We aim to enhance the shopping experience for consumers, increase consumer engagement and create additional opportunities for merchants by developing and promoting additional categories and offerings.
+score: 0.15296365492311437
+order: 1
+====================================================================================================
+We will also continue to look for ways to increase our mobile user base and engagement through strategic alliances, investments and acquisitions, such as our acquisition of UCWeb.
+score: 0.13296933406016376
+order: 2
+----------------------------------------
+In addition, we will continue to invest heavily in our cloud computing platform to support our own businesses and those of third parties.
+score: 0.12125
+order: 7
+====================================================================================================
+Since our founders first gathered in Jack Mas apartment in 1999, they and our management have acted in the spirit of partnership.
+score: 0.13676081023615627
+order: 0
+----------------------------------------
+We view our culture as fundamental to our success and our ability to serve our customers, develop our employees and deliver long-term value to our shareholders.
+score: 0.1225
+order: 1
+====================================================================================================
+Two partners who are members of our management are also members of management of Small and Micro Financial Services Company.
+score: 0.18252967513536025
+order: 2
+----------------------------------------
+The partnership operates under principles, policies and procedures that have evolved with our business and are described below.
+score: 0.125
+order: 3
+====================================================================================================
+New partners are elected annually after a nomination process based on a number of criteria including not less than five years of tenure with Alibaba Group, one of our affiliates and/or certain companies with which we have a significant relationship such as Small and Micro Financial Services Company, and require a 75% approval of all of the partners.
+score: -0.09536397773515116
+order: 0
+----------------------------------------
+Partnership votes are made on a one-partner-one-vote basis.
+score: 0.0625
+order: 1
+====================================================================================================
+Partners are evangelists for our mission, vision and values, both within our organization and externally to customers, business partners and other participants in our ecosystem.
+score: 0.3394412878787879
+order: 0
+====================================================================================================
+We require each partner to maintain a meaningful level of equity interests in our company during such individuals tenure as a partner.
+score: 0.39424305033809154
+order: 0
+====================================================================================================
+We also face other challenges, risks and uncertainties that may materially and adversely affect our business, financial condition, results of operations and prospects.
+score: 0.14017610667455388
+order: 0
+----------------------------------------
+You should consider the risks discussed in Risk Factors and elsewhere in this prospectus before investing in our ADSs.
+score: 0.17601659313213588
+order: 1
+====================================================================================================
+We have a demonstrated track record of successful organic business creation since our founding in 1999.
+score: 0.5546682098765432
+order: 0
+====================================================================================================
+In 2004, we established Alipay to address the issue of trust between buyers and sellers online.
+score: 0.135
+order: 2
+----------------------------------------
+We have continued to offer payment and escrow services on our marketplaces through Alipay following divestment of our interest in and control over Alipay in 2011.
+score: 0.114419679821047
+order: 3
+====================================================================================================
+In 2008, we launched Tmall to address an increasing consumer need for branded products and a premium shopping experience.
+score: 0.18407223433606265
+order: 1
+----------------------------------------
+In 2009, we established Alibaba Cloud Computing to handle the increasing data management needs on our platform.
+score: 0.14472004376688374
+order: 2
+====================================================================================================
+The relevant variable interest entities, which are 100% owned by PRC citizens or by PRC entities owned by PRC citizens, hold the ICP licenses and operate the various websites for our Internet businesses.
+score: 0.15813646774657686
+order: 1
+----------------------------------------
+See Our History and Corporate Structure Contractual Arrangements among Our Wholly-foreign Owned Enterprises, Variable Interest Entities and the Variable Interest Entity Equity Holders.
+score: 0.1648799270950168
+order: 4
+====================================================================================================
+Other than the ICP licenses and other licenses and approvals for businesses in which foreign ownership is restricted or prohibited held by our variable interest entities, we hold our material assets in, and conduct our material operations through, our wholly-foreign owned and majority foreign owned enterprises, which primarily provide technology and other services to our customers.
+score: -0.049104166666666664
+order: 0
+====================================================================================================
+We conduct our business operations across approximately 290 subsidiaries and other consolidated entities.
+score: 0.13333077262553616
+order: 0
+----------------------------------------
+In addition, the entities pictured in this chart hold, directly and indirectly, an aggregate of approximately 40 additional subsidiaries and consolidated entities incorporated in China and approximately 40 additional subsidiaries incorporated outside of China not pictured in the chart.
+score: 0.17828287202548188
+order: 2
+====================================================================================================
+(2) Primarily involved in the operation of Taobao Marketplace.
+score: 0.7593750000000001
+order: 0
+====================================================================================================
+(3) Primarily involved in the operation of Tmall and Juhuasuan.
+score: 0.5604166666666668
+order: 0
+====================================================================================================
+(4) Primarily involved in the operation of Alimama.
+score: 0.7414062500000002
+order: 0
+====================================================================================================
+(5) Primarily involved in the operation of Alibaba.com, 1688.com and AliExpress.
+score: 0.5918380230880231
+order: 0
+====================================================================================================
+(6) Primarily involved in the operation of cloud computing services.
+score: 0.7251984126984127
+order: 0
+====================================================================================================
+(7) Each of these variable interest entities is 80%-owned by Jack Ma and 20%-owned by Simon Xie, other than Zhejiang Taobao Network Co., Ltd., which is 90%-owned by Jack Ma and 10%-owned by Simon Xie.
+score: 0.4079695767195767
+order: 0
+====================================================================================================
+This prospectus also contains translations of certain foreign currency amounts into U.S. dollars for the convenience of the reader.
+score: 0.17626885651837715
+order: 1
+----------------------------------------
+On September 12, 2014, the noon buying rate for Renminbi was RMB6.1344 to US$1.00.
+score: 0.0977464733189111
+order: 4
+====================================================================================================
+US$68.00 per ADS ADSs offered by us 123,076,931 ADSs ADSs offered by the selling shareholders 197,029,169 ADSs ADSs outstanding immediately after this offering 320,106,100 ADSs (or 368,122,000 ADSs if the underwriters exercise in full their option to purchase additional ADSs), not including 128,417,070 of our ordinary shares, representing 5.2% of our outstanding ordinary shares immediately after this offering, that will not be subject to lock-up agreements and may be freely converted into ADSs from time to time.
+score: 0.24842267688775505
+order: 0
+----------------------------------------
+Ordinary shares outstanding immediately after this offering 2,465,005,966 ordinary shares (based on 2,341,929,035 ordinary shares outstanding immediately prior to this offering).
+score: 0.29548095238095234
+order: 1
+====================================================================================================
+If an amendment becomes effective, you will be bound by the deposit agreement as amended if you continue to hold your ADSs.
+score: 0.1614024540766138
+order: 2
+----------------------------------------
+We also encourage you to read the deposit agreement, which is an exhibit to the registration statement that includes this prospectus.
+score: 0.15524459309722166
+order: 4
+====================================================================================================
+The directed share program will be administered by Credit Suisse Securities (USA) LLC.
+score: 0.13875
+order: 1
+----------------------------------------
+We will not receive any of the proceeds from the sale of the ADSs by the selling shareholders.
+score: 0.12851691632231405
+order: 6
+====================================================================================================
+Immediately after the completion of this offering, a total of 2,016,482,796 ordinary shares (representing approximately 81.8% of our ordinary shares then issued and outstanding) will be subject to the lock-up agreements and other restrictions on transfer as described under Shares Eligible for Future Sale and Underwriting.
+score: 0.12187517102429204
+order: 1
+----------------------------------------
+See Shares Eligible for Future Sale and Underwriting.
+score: 0.06218469740837512
+order: 3
+====================================================================================================
+The summary consolidated statements of operations data for the years ended March 31, 2012, 2013 and 2014 and the summary consolidated balance sheet data as of March 31, 2012, 2013 and 2014 have been derived from our audited consolidated financial statements included elsewhere in this prospectus.
+score: 0.2933870987809848
+order: 0
+----------------------------------------
+Our financial statements have been prepared in accordance with U.S. GAAP.
+score: 0.15288860830527498
+order: 1
+====================================================================================================
+The summary consolidated statements of operations data for the three months ended June 30, 2013 and 2014 and the summary consolidated balance sheet data as of June 30, 2014 have been derived from our unaudited interim condensed consolidated financial statements included elsewhere in this prospectus.
+score: 0.20781487728781348
+order: 0
+----------------------------------------
+The unaudited interim condensed consolidated financial statements have been prepared on the same basis as our audited consolidated financial statements and include all normal recurring adjustments that we consider necessary for a fair statement of our financial position and operating results for the periods presented.
+score: 0.20423727775085931
+order: 1
+====================================================================================================
+The following summary consolidated financial data for the periods and as of the dates indicated are qualified by reference to and should be read in conjunction with our consolidated financial statements and related notes and Managements Discussion and Analysis of Financial Condition and Results of Operations, both of which are included elsewhere in this prospectus.
+score: 0.07696867956423747
+order: 0
+====================================================================================================
+Our historical results for any prior period do not necessarily indicate our results to be expected for any future period.
+score: 0.6798611111111114
+order: 0
+====================================================================================================
+Summary Consolidated Statements of Operations Data: (1) In fiscal year 2014, these expenses included an equity-settled donation expense of RMB1,269 million (US$205 million) relating to the grant of options to purchase 50,000,000 of our ordinary shares to a non-profit organization designated by Jack Ma and Joe Tsai.
+score: -0.013974421744036108
+order: 0
+====================================================================================================
+(2) We entered into the Technology and Intellectual Property Licensing Agreement with Yahoo, or the Yahoo TIPLA, in October 2005, pursuant to which we pay royalty fees to Yahoo.
+score: 0.10486263861411912
+order: 0
+----------------------------------------
+We and Yahoo amended the existing TIPLA in September 2012, pursuant to which we made a lump sum payment in the amount of US$550 million.
+score: 0.12876545459453623
+order: 1
+====================================================================================================
+(3) Pro forma earnings per share attributable to ordinary shareholders is calculated as if our convertible preference shares had been converted into ordinary shares at the beginning of the period, or when the convertible preference shares were issued, if later.
+score: 0.41807359307359293
+order: 0
+====================================================================================================
+(4) See Non-GAAP Measures below.
+score: 1.90625
+order: 0
+====================================================================================================
+See note 4 to our unaudited interim condensed consolidated financial statements for the three months ended June 30, 2014.
+score: 0.18035505531726953
+order: 1
+----------------------------------------
+Non-GAAP Measures We use adjusted EBITDA, adjusted net income and free cash flow, each a non-GAAP financial measure, in evaluating our operating results and for financial and operational decision-making purposes.
+score: 0.14655118382386967
+order: 2
+====================================================================================================
+We use free cash flow to manage our business, make planning decisions, evaluate our performance and allocate resources.
+score: 0.2193102666188979
+order: 1
+----------------------------------------
+Adjusted EBITDA, adjusted net income and free cash flow presented here may not be comparable to similarly titled measures presented by other companies.
+score: 0.18496420233912725
+order: 4
+====================================================================================================
+Adjusted EBITDA represents income from operations (which excludes interest and investment income (loss), net, interest expense, other income, net, income tax expenses and share of results of equity investees) before (i) certain non-cash expenses, consisting of share-based compensation expense, amortization, depreciation and impairment of goodwill and intangible assets as well as (ii) one-time expense items consisting of the Yahoo TIPLA amendment payment and an equity-settled donation expense that we do not believe are reflective of our core operating performance during the period presented.
+score: -0.1675682692060338
+order: 0
+====================================================================================================
+Adjusted net income represents net income before share-based compensation expense, amortization, impairment of goodwill, intangible assets and investments, gain (loss) on deemed disposals/disposals/revaluation of investments, and one-time expense items consisting of the Yahoo TIPLA amendment payment, as well as an equity-settled donation expense.
+score: 0.10025786205073997
+order: 0
+====================================================================================================
+Free cash flow represents net cash provided by operating activities as presented in our consolidated cash flow statement less purchases of property and equipment (excluding acquisition of land use rights for, and construction of, our office campuses in China) and intangible assets, adjusted for changes in loan receivables relating to micro loans of our SME loan business and the Yahoo TIPLA amendment payment.
+score: -0.0583361699114108
+order: 0
+----------------------------------------
+We present the adjustment for changes in loan receivables because such receivables are reflected under cash flow from operating activities, whereas the secured borrowings and other bank borrowings used to finance them are reflected under cash flows from financing activities, and accordingly, the adjustment is made to show cash flows from operating activities net of the effect of changes in loan receivables.
+score: 0.01795798794911548
+order: 1
+====================================================================================================
+The table below sets forth a reconciliation of our income from operations to adjusted EBITDA for the periods indicated: The following table sets forth a reconciliation of our net income to adjusted net income for the periods indicated: (1) Including a net gain of RMB6,251 million (US$1,008 million) from step-up acquisitions arising from revaluations of previously held equity interest.
+score: 0.02325846354166669
+order: 0
+----------------------------------------
+See note 4 to our unaudited interim condensed consolidated financial statements for the three months ended June 30, 2014.
+score: 0.13125
+order: 1
+====================================================================================================
+The following table sets forth a reconciliation of net cash provided by operating activities to free cash flow for the periods indicated: Summary Consolidated Balance Sheet Data (1) Reflects the automatic conversion of all of our convertible preference shares into 91,243,312 ordinary shares concurrently with the completion of this offering.
+score: -0.024733128780631573
+order: 0
+====================================================================================================
+(2) Reflects (i) the automatic conversion of all of our convertible preference shares into 91,243,312 ordinary shares concurrently with the completion of this offering and (ii) the sale of 123,076,931 ordinary shares in the form of ADSs by us in this offering at an initial public offering price of US$68.00 per ADS, after deducting underwriting discounts and commissions and estimated offering expenses payable by us.
+score: -0.012905051726572997
+order: 0
+====================================================================================================
+(3) Includes both cash and cash equivalents and short-term investments, which primarily comprise fixed deposits with original maturities of between three months and one year.
+score: 0.35018827326519636
+order: 0
+====================================================================================================
+(4) Includes both current and non-current investment securities and investment in equity investees.
+score: 0.7600078876201923
+order: 0
+====================================================================================================
+GMV generated from traffic through Juhuasuan was RMB65.6 billion (US$10.6 billion) in the twelve months ended June 30, 2014.
+score: 0.13291666666666666
+order: 2
+----------------------------------------
+Active buyers The following chart sets forth the number of active buyers on our China retail marketplaces for the periods indicated:
+score: 0.15065315476190477
+order: 3
+====================================================================================================

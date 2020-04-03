@@ -1,0 +1,228 @@
+In addition to this summary, we urge you to read the entire prospectus carefully, especially the risks of investing in our ADSs discussed under "Risk Factors," before deciding whether to buy our ADSs.
+score: 0.1068655175058494
+order: 1
+----------------------------------------
+We also procured certain data included in this prospectus from QuestMobile, a third-party independent research firm.
+score: 0.13159013605442177
+order: 4
+====================================================================================================
+We enrich the everyday life of young generations in China.
+score: 0.6160714285714286
+order: 0
+====================================================================================================
+We provide high-quality content and an immersive entertainment experience, and have built our platform based on the strong emotional connections of our users to our content and communities.
+score: 0.13319549177323237
+order: 1
+----------------------------------------
+We have now become the welcoming home of diverse cultures and interests and destination for discovering cultural trends and phenomena for young generations in China.
+score: 0.12198177844283155
+order: 3
+====================================================================================================
+According to QuestMobile, as of February 2018, approximately 81.7% of our user base were Generation Z, individuals born from 1990 to 2009 in China.
+score: 0.16669833608815426
+order: 1
+----------------------------------------
+In the first two months of 2018, we had 76.4 million average monthly active users.
+score: 0.14951190476190476
+order: 5
+====================================================================================================
+Our user base has demonstrated strong engagement and loyalty to our communities.
+score: 0.13756021572231833
+order: 1
+----------------------------------------
+In 2017, the average daily time spent per active user on our mobile app was approximately 76.3 minutes, as compared to 72.2 minutes in 2016.
+score: 0.11705451516544119
+order: 2
+====================================================================================================
+We have developed a robust system and nurtured an encouraging community culture that respects and rewards content creators and motivates the creation of inspirational content.
+score: 0.18920006211299356
+order: 1
+----------------------------------------
+The average monthly number of our active content creators grew by 104% from approximately 100,200 in 2016 to approximately 204,100 in 2017.
+score: 0.1658014198692108
+order: 2
+====================================================================================================
+Our net revenues grew from RMB131.0 million (US$20.1 million) in 2015 to RMB523.3 million (US$80.4 million) in 2016 and further to RMB2,468.4 million (US$379.4 million) in 2017.
+score: 0.18495890565048856
+order: 3
+----------------------------------------
+We incurred net loss of RMB373.5 million (US$57.4 million), RMB911.5 million (US$140.1 million) and RMB183.8 million (US$28.2 million) in 2015, 2016 and 2017, respectively.
+score: 0.21873531505873983
+order: 4
+====================================================================================================
+Online entertainment is a large and fast growing industry in China.
+score: 0.09499117043889187
+order: 0
+----------------------------------------
+According to the iResearch Report, China's online entertainment industry market reached RMB205.8 billion in 2016 and is expected to grow at a compound annual growth rate, or CAGR, of 29.6% to RMB752.7 billion in 2021.
+score: 0.07840339949047988
+order: 1
+====================================================================================================
+According to the iResearch Report, the population of Generation Z has reached 328 million in 2017.
+score: 0.11744983690467406
+order: 0
+----------------------------------------
+Their market share contribution to the online entertainment industry in China in terms of dollar spending is expected to grow from 45.8% in 2014, to 54.8% in 2017 and further to 62.1% in 2020.
+score: 0.0723188233626784
+order: 1
+====================================================================================================
+Quality content attracts and retains users, which in turn incentivize content providers to create more engaging content.
+score: 0.1824937813322399
+order: 1
+----------------------------------------
+Among them, 282 million were Generation Z, and they on average spent more than 1.6 hours every day on online entertainment.
+score: 0.16955622974615175
+order: 5
+====================================================================================================
+China's online entertainment industry has been expanding rapidly to meet the increasing demand of Generation Z for quality content.
+score: 0.17490721382537977
+order: 0
+----------------------------------------
+Driven by the increasing demand on a diverse range of entertainment content, key sectors of the online entertainment industry, including video, games and live broadcasting, have been growing exponentially.
+score: 0.1606233513813689
+order: 2
+====================================================================================================
+We believe that the following competitive strengths contribute to our success and differentiate us from our competitors: iconic brand for online entertainment serving the young generations in China; aspirational and fast growing user base; highly sticky communities with a strong sense of belonging; ever-growing supply of creative content; a thriving ecosystem fueling strong monetization potential; and visionary, experienced and passionate management team.
+score: -0.11867130059094347
+order: 0
+====================================================================================================
+We intend to achieve our goals by pursuing the following strategies: enhance our content offerings; improve user experience on our platform; further enhance our technologies and infrastructure; and strengthen our monetization capabilities.
+score: 0.12345245215311004
+order: 0
+====================================================================================================
+Our ability to realize our mission and execute our strategies is subject to risks and uncertainties, including those relating to our ability to: maintain our culture and brand image within our addressable user communities; address the evolving entertainment needs of our users and provide quality content, products and services to attract and retain users; successfully implement our monetization strategies and generate sustainable revenues and profit; sustain our growth and the increased complexity of our business; manage our costs and expenses; identify and prevent illegal or inappropriate content from being displayed on our platform; and launch new games and release upgrades to grow our game player base.
+score: -0.4065053267724174
+order: 0
+====================================================================================================
+Please see "Risk Factors" and other information included in this prospectus for a discussion of these and other risks and uncertainties that we face.
+score: 0.3262422839506173
+order: 0
+====================================================================================================
+We commenced our commercial operations in 2011 and established Shanghai Hode Information Technology Co., Ltd., or Shanghai Hode, to expand our operations in May 2013.
+score: 0.2611551339285714
+order: 1
+----------------------------------------
+Subsequently, we obtained control over Shanghai Kuanyu Digital Technology Co., Ltd., or Shanghai Kuanyu, in July 2014 to further expand our operations.
+score: 0.2659573271780303
+order: 2
+====================================================================================================
+In February 2014, we established Hode HK Limited, or Hode HK, a wholly-owned Hong Kong subsidiary.
+score: 0.4154017084775087
+order: 1
+----------------------------------------
+In September 2014, Hode HK established a wholly-owned PRC subsidiary, Hode Shanghai Limited, which we refer to as Hode Technology or our WFOE in this prospectus.
+score: 0.36622068435217225
+order: 2
+====================================================================================================
+For more details, please see "Corporate History and StructureContractual Arrangements with Our VIEs and Their Respective Shareholders."
+score: 0.15032560694396102
+order: 1
+----------------------------------------
+As a result of our direct ownership in our WFOE and the variable interest entity contractual arrangements, we are regarded as the primary beneficiary of our VIEs.
+score: 0.11048249506903353
+order: 2
+====================================================================================================
+The following diagram illustrates our corporate structure, including our principal subsidiaries and our VIEs and their respective principal subsidiaries, as of the date of this prospectus: Notes: (1)Rui Chen is a beneficial owner of the shares of Bilibili Inc. and holds 100% equity interests in Shanghai Kuanyu.
+score: 0.00675485529381635
+order: 0
+----------------------------------------
+He is also the chairman of our board of directors and our cheif executive officer.
+score: 0.11410123966942148
+order: 1
+====================================================================================================
+(2)Rui Chen, Yi Xu, Qian Wei, Ni Li and Xi Cao are beneficial owners of the shares of Bilibili Inc. and hold 52.3%, 34.8%, 7.0%, 3.4% and 2.5% equity interests in Shanghai Hode, respectively.
+score: 0.06316454141569482
+order: 0
+----------------------------------------
+Among them, Mr. Chen, Mr. Xu and Ms. Li are also directors and officers of our company.
+score: 0.19065743944636676
+order: 1
+====================================================================================================
+An emerging growth company may take advantage of specified reduced reporting and other requirements compared to those that are otherwise applicable generally to public companies.
+score: 0.18007903823154972
+order: 1
+----------------------------------------
+These provisions include exemption from the auditor attestation requirement under Section 404 of the Sarbanes-Oxley Act of 2002 in the assessment of the emerging growth company's internal control over financial reporting.
+score: 0.10060972975994471
+order: 2
+====================================================================================================
+However, we have elected to "opt out" of this provision and, as a result, we will comply with new or revised accounting standards as required when they are adopted for public companies.
+score: 0.18485404104823744
+order: 0
+====================================================================================================
+This decision to opt out of the extended transition period under the JOBS Act is irrevocable.
+score: 0.4880479600694445
+order: 0
+====================================================================================================
+We will remain an emerging growth company until the earliest of (a) the last day of the fiscal year during which we have total annual gross revenues of at least US$1.07 billion; (b) the last day of our fiscal year following the fifth anniversary of the completion of this offering; (c) the date on which we have, during the preceding three-year period, issued more than US$1.00 billion in non-convertible debt; or (d) the date on which we are deemed to be a "large accelerated filer" under the Securities Exchange Act of 1934, as amended, or the Exchange Act, which would occur if the market value of our ADSs that are held by non-affiliates exceeds US$700 million as of the last business day of our most recently completed second fiscal quarter.
+score: -0.5295632555764207
+order: 0
+----------------------------------------
+Once we cease to be an emerging growth company, we will not be entitled to the exemptions provided in the JOBS Act discussed above.
+score: 0.12356931530008454
+order: 1
+====================================================================================================
+485 Zhengli Road, Yangpu District, Shanghai, People's Republic of China.
+score: 0.0975
+order: 1
+----------------------------------------
+Our registered office in the Cayman Islands is located at office of Walkers Corporate Limited, Cayman Corporate Centre, 27 Hospital Road, George Town, Grand Cayman KY1-9008, Cayman Islands.
+score: 0.21491306835741325
+order: 3
+====================================================================================================
+Investors should submit any inquiries to the address and telephone number of our principal executive offices.
+score: 0.10692221741637832
+order: 0
+----------------------------------------
+Our agent for service of process in the United States is Law Debenture Corporate Services Inc., located at 801 2nd Avenue, Suite 403, New York, New York 10017.
+score: 0.09621441798226643
+order: 3
+====================================================================================================
+Unless the context indicates otherwise, all information in this prospectus assumes no exercise by the underwriters of their over-allotment option.
+score: 0.3857954545454546
+order: 0
+====================================================================================================
+Our consolidated financial statements are prepared and presented in accordance with accounting principles generally accepted in the United States of America, or U.S. GAAP.
+score: 0.20091796874999998
+order: 1
+----------------------------------------
+You should read this Summary Consolidated Financial Data section together with our consolidated financial statements and the related notes and "Management's Discussion and Analysis of Financial Condition and Results of Operations" included elsewhere in this prospectus.
+score: 0.1816450339433294
+order: 3
+====================================================================================================
+Note: (1)Share-based compensation expenses were allocated as follows: Non-GAAP Measures We use EBITDA, adjusted EBITDA and adjusted net loss, each a non-GAAP financial measure, in evaluating our operating results and for financial and operational decision-making purposes.
+score: 0.21702178030303024
+order: 0
+====================================================================================================
+We believe that EBITDA, adjusted EBITDA and adjusted net loss help identify underlying trends in our business that could otherwise be distorted by the effect of certain expenses that we include in loss from operations and net loss.
+score: 0.2185461610923058
+order: 0
+----------------------------------------
+We believe that EBITDA, adjusted EBITDA and adjusted net loss provide useful information about our results of operations, enhance the overall understanding of our past performance and future prospects and allow for greater visibility with respect to key metrics used by our management in its financial and operational decision-making.
+score: 0.11342270766496339
+order: 1
+====================================================================================================
+Investors are encouraged to review the historical non-GAAP financial measures to the most directly comparable GAAP measures.
+score: 0.2077694183180169
+order: 1
+----------------------------------------
+EBITDA, adjusted EBITDA and adjusted net loss presented here may not be comparable to similarly titled measures presented by other companies.
+score: 0.25838980538504464
+order: 2
+====================================================================================================
+EBITDA represents net loss excluding depreciation, amortization, interest income and income tax.
+score: 0.18118651892890117
+order: 0
+----------------------------------------
+Adjusted EBITDA represents net loss excluding share-based compensation expenses, depreciation, amortization, interest income and income tax.
+score: 0.23532894736842105
+order: 1
+====================================================================================================
+Adjusted net loss represents net loss excluding share-based compensation expenses and amortization expense related to intangible assets acquired through business acquisition.
+score: 0.47629392918483293
+order: 0
+----------------------------------------
+The table below sets forth a reconciliation of our net loss to adjusted net loss for the periods indicated:
+score: 0.4686084731001105
+order: 1
+====================================================================================================

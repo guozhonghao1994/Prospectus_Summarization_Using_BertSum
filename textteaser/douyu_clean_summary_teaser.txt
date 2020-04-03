@@ -1,0 +1,264 @@
+Such information involves a number of assumptions and limitations, and you are cautioned not to give undue weight to these estimates.
+score: 0.13125
+order: 4
+----------------------------------------
+These and other factors could cause results to differ materially from those expressed in these publications and reports.
+score: 0.124444
+order: 7
+====================================================================================================
+We make the world a fun place through games and other interactive entertainment.
+score: 0.5955967643467643
+order: 0
+====================================================================================================
+We are the largest game-centric live streaming platform in China and a pioneer in the eSports value chain.
+score: 0.1508431952662722
+order: 0
+----------------------------------------
+We operate our platform both on PC and mobile apps, through which users can enjoy immersive and interactive games and entertainment live streaming.
+score: 0.14839046822742474
+order: 1
+====================================================================================================
+In 2018, live streaming annual ARPPU in China was RMB574, which takes into account both the game-centric and non-game centric live streaming platforms, while game-centric live streaming annual ARPPU in China was RMB365.
+score: 0.3435424937546913
+order: 5
+----------------------------------------
+The difference between live streaming annual ARPPU and game-centric live streaming annual ARPPU indicates significant growth potential for game-centric live streaming ARPPU.
+score: 0.4641409302018117
+order: 6
+====================================================================================================
+As of December 31, 2016, 2017 and 2018 and March 31, 2019, we had 98.7 million, 182.1 million, 253.6 million and 280.9 million registered users, respectively.
+score: 0.1439916716240333
+order: 1
+----------------------------------------
+The average daily time spent by each active user was 42 minutes and 56 minutes for the same periods.
+score: 0.13226353361094587
+order: 9
+====================================================================================================
+Approximately 440 and 780 of our streamers had more than one million viewers during the first quarter of 2018 and 2019, respectively.
+score: 0.14063764199488657
+order: 3
+----------------------------------------
+Approximately 491,000 of our streamers are managed through talent agencies as of March 31, 2019.
+score: 0.11410524764150944
+order: 4
+====================================================================================================
+The eSports industry generates highly attractive content and helps to transform our platform into an engaged and vibrant community.
+score: 0.19215401785714284
+order: 1
+----------------------------------------
+Our average total eSports MAUs were approximately 78.3 million and 125.3 million in the first quarter of 2018 and 2019, respectively.
+score: 0.147614451126525
+order: 4
+====================================================================================================
+We have built powerful technology infrastructure to help ensure a stable and optimized live streaming experience for our users.
+score: 0.12942251461988302
+order: 0
+----------------------------------------
+The optimized user experience attracts a large number of users on our platform and enables us to collect and analyze vast amounts of behavioral data leveraging our big data analytics capabilities.
+score: 0.14949603174603174
+order: 1
+====================================================================================================
+We believe the vibrant and interactive game community created on our platform drives user satisfaction, which provides diversified opportunities for user spending.
+score: 0.17029281560642112
+order: 1
+----------------------------------------
+Leveraging a large number of viewers and a deep pool of streamers, our monetization channels mainly consists of live streaming, advertisement and others.
+score: 0.1537147943458391
+order: 2
+====================================================================================================
+Our revenue increased from RMB786.9 million in 2016 to RMB1,885.7 million in 2017 and further to RMB3,654.4 million (US$544.5 million) in 2018.
+score: 0.30721492674663864
+order: 1
+----------------------------------------
+We had net loss of RMB782.9 million, RMB612.9 million and RMB876.3 million (US$130.6 million) in 2016, 2017 and 2018, respectively, and net loss of RMB155.7 million and net income of RMB 18.2 million (US$2.7 million) for the three months ended March 31, 2018 and 2019, respectively.
+score: 0.3429014751112306
+order: 3
+====================================================================================================
+We are at the forefront of the game-centric live streaming industry in China.
+score: 0.1260921556122449
+order: 0
+----------------------------------------
+We believe that the following competitive strengths contribute to our success and differentiate us from our competitors.
+score: 0.19212847248274312
+order: 1
+====================================================================================================
+Leading game-centric live streaming platform Large and highly engaged user base Deep pool of top streamers empowered by a comprehensive streamer development system Strategically positioned in eSports to secure coveted access to premium content Technology- and big data-enabled user experience and value proposition Multiple monetization channels with significant potential Visionary and experienced management team with strong shareholder support Our Strategies To fulfill our mission of making the world a fun place through games and other interactive entertainment, we plan to pursue the following strategies to grow our business.
+score: -0.2960762803857624
+order: 0
+====================================================================================================
+Further strengthen our position in the eSports industry Continue to attract more viewers and streamers while investing in technologies Increase monetization capabilities Selective overseas expansion Our Challenges We face risks and uncertainties in realizing our business objectives and executing our strategies, including those relating to: our ability to retain our existing users, keep them engaged or further grow our user base; our ability to attract, cultivate and retain top streamers; our ability to offer attractive content, in particular popular game content; our ability to maintain our market position in the eSports industry; our ability to realize the benefits we expect from our strategic cooperation with Tencent; our ability to align interests with certain existing shareholders who have substantial influence over our company; our ability to manage our growth and control our periodic spending to maintain such growth; our ability to reach profitability depending on our ability to grow in a cost-effective way; our ability to implement our growth or monetization strategies; our ability to prevent misconduct by our platform users and misuse of our platform; our ability to evaluate our business and growth prospects in a relatively new market; our ability to compete with other established streaming platforms and other entertainment mediums; our ability to continue to grow or maintain our paying ratio; and our ability to obtain and maintain the licenses and approvals required under the complex regulatory environment for Internet-based businesses in China.
+score: -1.1756668250243612
+order: 0
+====================================================================================================
+We commenced operations and launched our live streaming platform in 2014 with the establishment of Guangzhou Douyu.
+score: 0.25373459124858333
+order: 0
+----------------------------------------
+In February 2016, Guangzhou Douyu and Wuhan Douyu entered into an asset and business transfer agreement, pursuant to which Guangzhou Douyu transferred all of its business operations and assets to Wuhan Douyu (the "2016 Wuhan Douyu Restructuring").
+score: 0.7857316586011687
+order: 2
+====================================================================================================
+In February 2016, Wuhan Douyu, Wuhan Ouyue, the successor of Zhejiang Ouyue which was acquired by Mr. Shaojie Chen in November 2015, and Mr. Chen entered into a series of contractual arrangements, by which Wuhan Douyu may exert control over Wuhan Ouyue and consolidate Wuhan Ouyue's financial statements.
+score: 0.28343224981738496
+order: 0
+----------------------------------------
+In May 2018, such contractual arrangements were terminated and replaced by contractual arrangements between Douyu Yule, Wuhan Ouyue and Mr. Chen.
+score: 0.28084959612725663
+order: 1
+====================================================================================================
+In connection with its incorporation, it issued ordinary and preferred shares to certain of the then existing shareholders of Wuhan Douyu based on their equity interests held in Wuhan Douyu.
+score: 0.10908852420955564
+order: 1
+----------------------------------------
+For details of the issuances of shares by DouYu International Holdings Limited to its shareholders prior to this offering, please refer to "Description of Share CapitalHistory of Securities Issuances."
+score: 0.10338502745677915
+order: 2
+====================================================================================================
+In May 2018, Douyu Yule, our indirect wholly-owned PRC subsidiary, entered into a series of contractual arrangements with each of Wuhan Douyu and Wuhan Ouyue, as well as their respective shareholders.
+score: 0.27987316715542526
+order: 0
+----------------------------------------
+As a result of these contractual arrangements, we obtained effective control, and became the primary beneficiary of, each of Wuhan Douyu and Wuhan Ouyue, or our VIEs.
+score: 0.29097016765285993
+order: 1
+====================================================================================================
+We are a holding company and does not directly own any substantive business operations in the PRC.
+score: 0.14904007521375895
+order: 0
+----------------------------------------
+We currently focus our business operations within the PRC through Douyu Yule and our VIEs, Wuhan Douyu and Wuhan Ouyue.
+score: 0.2691244533527697
+order: 1
+====================================================================================================
+The following diagram illustrates our corporate structure, including our significant subsidiaries and variable interest entities, immediately upon the completion of this offering, assuming no exercise of the over-allotment option granted to the underwriters.
+score: 0.11126052295918369
+order: 0
+====================================================================================================
+(2)The sole shareholder of Wuhan Ouyue is Mr. Shaojie Chen, our founder, CEO and director.
+score: 0.11375
+order: 1
+----------------------------------------
+(3)The shareholders of Wuhan Douyu and their relationship with our company are as follows: (i) Mr. Chen (35.15%), our founder, CEO and director; (ii) Linzhi Lichuang (18.98%), an affiliate of Nectarine, one of our shareholders; (iii) Mr. Dongqing Cai (13.18%), the beneficial owner of Aodong Investments Limited, one of our shareholders; (iv) Beijing Fengye (13.16%), 99.99% of its interests is owned by Wuhan Ouyue; (v) Beijing Phoenix (8.08%), an affiliate of Phoenix Fuju Limited, one of our shareholders; (vi) Mr. Wenming Zhang (3.92%), our co-founder, co-CEO and director, and (vii) certain other third-party investors.
+score: -0.3201946661185356
+order: 2
+====================================================================================================
+An emerging growth company may take advantage of specified reduced reporting and other requirements that are otherwise applicable generally to public companies.
+score: 0.19603095546256522
+order: 1
+----------------------------------------
+As a result, our operating results and financial statements may not be comparable to the operating results and financial statements of other companies who have adopted the new or revised accounting standards.
+score: 0.08336911839044318
+order: 5
+====================================================================================================
+Once we cease to be an emerging growth company, we will not be entitled to the exemptions provided in the JOBS Act discussed above.
+score: 0.16389883782060605
+order: 1
+----------------------------------------
+For details, please refer to "Risk FactorsWe are an emerging growth company and may take advantage of certain reduced reporting requirements."
+score: 0.16039579395085066
+order: 2
+====================================================================================================
+located at 10 E. 40th Street, 10th Floor, New York, NY 10016.
+score: 0.19602864583333335
+order: 0
+----------------------------------------
+The information contained in our website is not a part of this prospectus.
+score: 0.13444444444444448
+order: 2
+====================================================================================================
+Unless the context otherwise requires, the operating data presented for our company in this prospectus excludes Gogo Glocal, a company incorporated under the laws of the Cayman Islands.
+score: 0.17525618912337662
+order: 0
+====================================================================================================
+We acquired a controlling stake of Gogo Glocal in October 2018.
+score: 0.5918380230880231
+order: 0
+====================================================================================================
+We have made rounding adjustments to some of the figures included in this prospectus.
+score: 0.21110000000000004
+order: 0
+----------------------------------------
+Accordingly, numerical figures shown as totals or percentages may not be an arithmetic calculation of the figures that preceded them.
+score: 0.3478046875000001
+order: 1
+====================================================================================================
+This prospectus contains information and statistics relating to China's economy and its games and eSports market and game-centric live streaming industry derived from various publications issued by market research companies and PRC governmental entities, which have not been independently verified by us, the underwriters or any of their respective affiliates or advisers.
+score: -0.04887499999999999
+order: 0
+====================================================================================================
+The information in such sources may not be consistent with other information compiled in or outside China.
+score: 0.6124346167038243
+order: 0
+====================================================================================================
+We make no representation that any Renminbi or U.S. dollar amounts could have been, or could be, converted into U.S. dollars or Renminbi, as the case may be, at any particular rate, the rates stated below, or at all.
+score: 0.04345967697278602
+order: 1
+----------------------------------------
+On July 12, 2019, the noon buying rate for Renminbi was RMB 6.8796 to US$1.00.
+score: 0.1402436564809807
+order: 2
+====================================================================================================
+Our historical results are not necessarily indicative of results expected for future periods.
+score: 0.09394691241335854
+order: 2
+----------------------------------------
+You should read this Summary Combined and Consolidated Financial Data and Operating Data section together with our combined and consolidated financial statements and the related notes and "Management's Discussion and Analysis of Financial Condition and Results of Operations" included elsewhere in this prospectus.
+score: 0.12233252477190706
+order: 3
+====================================================================================================
+Note: (1)Includes share-based compensation of RMB24.9 million, RMB17.6 million, RMB35.4 million (US$5.3 million), RMB4.4 million and RMB17.8 million (US$2.7 million) in 2016, 2017, 2018 and the first three months of 2018 and 2019, respectively.
+score: 0.8384672727272726
+order: 0
+====================================================================================================
+The following table presents our summary combined and consolidated balance sheet data as of December 31, 2016, 2017 and 2018 and March 31, 2019.
+score: 0.2994318181818182
+order: 0
+====================================================================================================
+The following table presents our summary combined and consolidated cash flow data for the years ended December 31, 2016, 2017 and 2018 and for the three months ended March 31, 2018 and 2019.
+score: 0.23327090153613694
+order: 0
+====================================================================================================
+Investors are encouraged to review the reconciliation of the historical non-GAAP financial measure to its most directly comparable GAAP financial measures.
+score: 0.19273304063360877
+order: 2
+----------------------------------------
+In light of the foregoing limitations, you should not consider adjusted net loss as a substitute for, or superior to, net loss prepared in accordance with GAAP.
+score: 0.18418126065853335
+order: 4
+====================================================================================================
+Next-month active user retention rate is calculated by dividing (i) the sum of users who visited our platform through PC or mobile app at least once in the next month after a given month, by (ii) the sum of all active users in that given month.
+score: 0.0728704598318125
+order: 1
+----------------------------------------
+Next-month active user retention rate is only available from September 2016.
+score: 0.16775
+order: 2
+====================================================================================================
+(2)Quarterly average paying ratio for a given period is calculated (i) the sum of paying ratio for each quarter of such period, by (ii) the number of quarters in such period.
+score: 0.3699286192104313
+order: 0
+----------------------------------------
+Paying ratio for a given quarter is calculated by dividing (i) the sum of paying users in such quarter, by (ii) the average total MAUs in such quarter.
+score: 0.2960649249293891
+order: 1
+====================================================================================================
+(3)MAUs refers to the number of active users, including active PC users and active mobile users in a given month.
+score: 1.1541628014842298
+order: 0
+====================================================================================================
+(4)Average total MAUs refers to the average total MAUs during a given period of time calculated by dividing (i) the sum of active users, including active PC users and active mobile users for each month of such period, by (ii) the number of months in such period.
+score: 0.23780978619926613
+order: 0
+====================================================================================================
+(5)Quarterly average paying users refers to the average paying users for each quarter during a given period of time calculated by dividing (i) the sum of paying users for each quarter of such period, by (ii) the number of quarters in such period.
+score: 0.21302671920421515
+order: 0
+----------------------------------------
+Paying user refers to a registered user that has purchased virtual gifts on our platform at least once during the relevant period.
+score: 0.2292558687963822
+order: 1
+====================================================================================================
+(6)Quarterly average ARPPU refers to average live streaming revenue per paying user for each quarter during a given period of time calculated by dividing live streaming revenue for a given period by: (i) quarterly average paying users for that given period and (ii) number of quarters in that given period.
+score: 0.5964496026865953
+order: 0
+====================================================================================================

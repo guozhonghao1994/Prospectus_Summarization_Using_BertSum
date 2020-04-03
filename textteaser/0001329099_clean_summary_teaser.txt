@@ -1,0 +1,32 @@
+Our auction-based pay-for-performance, or P4P, services enable our customers to bid for priority placement of their links in keyword search results.
+score: 0.13830606104254198
+order: 10
+----------------------------------------
+Founded in January 2000, we launched Internet search services on our Baidu.com website and began generating revenues from P4P services in September 2001.
+score: 0.1641032895729591
+order: 16
+====================================================================================================
+Our total net revenues increased from RMB10.5 million in 2002 to RMB110.9 million (US$13.4 million) in 2004, representing a compound annual growth rate, or CAGR, of 224.6%.
+score: 0.13579803719008263
+order: 2
+----------------------------------------
+In the three months ended March 31, 2005, we generated total net revenues of RMB42.6 million (US$5.2 million).
+score: 0.1757162534435262
+order: 3
+====================================================================================================
+Ordinary shares Holders of Class A ordinary shares and Class B ordinary shares have the same rights except for voting and conversion rights.
+score: 0.2673883054467783
+order: 8
+----------------------------------------
+Class A ordinary shares are not convertible into Class B ordinary shares under any circumstances.
+score: 0.20578762904948383
+order: 11
+====================================================================================================
+(3) As holders of Class A and Class B ordinary shares have the same dividend right and the same participation right in our undistributed earnings, the basic and diluted pro forma earnings per share of Class A and Class B ordinary shares are the same for all the periods presented.
+score: 0.1514053265306123
+order: 0
+----------------------------------------
+The following table presents a summary of our consolidated balance sheet data as of December 31, 2004 and March 31, 2005: on an actual basis; on a pro forma basis to give effect to the conversion of all of our 11,548,682 outstanding ordinary shares as of March 31, 2005 into 11,548,682 Class B ordinary shares on May 30, 2005 and the automatic conversion of all of our outstanding preferred shares into 16,648,877 Class B ordinary shares immediately prior to the closing of this offering; and on a pro forma as adjusted basis to reflect the conversion of all of our 11,548,682 outstanding ordinary shares as of March 31, 2005 into 11,548,682 Class B ordinary shares on May 30, 2005 and the automatic conversion of all of our outstanding preferred shares into 16,648,877 Class B ordinary shares immediately prior to the closing of this offering, the issuance and sale of 3,208,696 Class A ordinary shares by us in this offering, and the sale of 831,706 Class B ordinary shares by certain selling shareholders in this offering which will convert into 831,706 Class A ordinary shares, at the initial public offering price of US$27.00 per share, after deducting the underwriting discounts and commissions and estimated offering expenses payable by us.
+score: -0.25803740214777954
+order: 1
+====================================================================================================

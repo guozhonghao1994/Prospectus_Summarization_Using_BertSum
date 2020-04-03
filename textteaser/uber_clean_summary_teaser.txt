@@ -1,0 +1,533 @@
+This summary is not complete and does not contain all of the information you should consider before investing in our common stock.
+score: 0.170794659885569
+order: 1
+----------------------------------------
+You should read this entire prospectus carefully before making an investment decision.
+score: 0.10920118343195266
+order: 2
+====================================================================================================
+We believe deeply in our bold mission.
+score: 0.12291857142857143
+order: 1
+----------------------------------------
+We revolutionized personal mobility with Ridesharing, and we are leveraging our platform to redefine the massive meal delivery and logistics industries.
+score: 0.13247876364087302
+order: 3
+====================================================================================================
+Massive network.
+score: 0.19473338203067933
+order: 2
+----------------------------------------
+Marketplace technologies are the core of our deep technology advantage and include demand prediction, matching and dispatching, and pricing technologies.
+score: 0.15074721563643118
+order: 8
+====================================================================================================
+Our regional on-the-ground operations teams use their extensive market-specific knowledge to rapidly launch and scale products in cities, support Drivers, consumers, restaurants, shippers, and carriers, and build and enhance relationships with cities and regulators.
+score: 0.07613900245645946
+order: 1
+----------------------------------------
+Product expertise.
+score: 0.10777800916284881
+order: 2
+====================================================================================================
+Our Personal Mobility, Uber Eats, and Uber Freight platform offerings each address large, fragmented markets.
+score: 0.6152935606060606
+order: 0
+====================================================================================================
+Ridesharing refers to products that connect consumers with Drivers who provide rides in a variety of vehicles, such as cars, auto rickshaws, motorbikes, minibuses, or taxis.
+score: 0.13181592200413222
+order: 1
+----------------------------------------
+New Mobility refers to products that provide consumers with access to rides through a variety of modes, including dockless e-bikes and e-scooters.
+score: 0.1774118688991609
+order: 2
+====================================================================================================
+The rapid growth and scale of our Ridesharing products, which to date have accounted for virtually all of our Personal Mobility offering, demonstrates the size of our opportunity: Revenue derived from our Ridesharing products grew from $3.5 billion in 2016 to $9.2 billion in 2018.
+score: 0.10022363636363635
+order: 0
+====================================================================================================
+Gross Bookings derived from our Ridesharing products grew from $18.8 billion in 2016 to $41.5 billion in 2018.
+score: 0.24207161458333337
+order: 0
+----------------------------------------
+Consumers traveled approximately 26 billion miles on our platform in 2018.
+score: 0.21691382575757576
+order: 1
+====================================================================================================
+We operate our Personal Mobility offering in 63 countries with an aggregate population of 4.1 billion people.
+score: 0.1781371738798759
+order: 1
+----------------------------------------
+Through our Personal Mobility offering, we estimate that our platform served 2% of the population in these countries based on MAPCs in the quarter ended December 31, 2018.
+score: 0.12994637870778875
+order: 2
+====================================================================================================
+We calculate our Personal Mobility market share in a given region by dividing our Personal Mobility miles traveled by our estimates of the addressable market in miles traveled in the region.
+score: 0.1804293814056378
+order: 1
+----------------------------------------
+Based on this estimate, our Personal Mobility market share is less than 1% in every major region of the world where we operate.
+score: 0.15905355222201129
+order: 5
+====================================================================================================
+Our Global Ridesharing Footprint(1) * Does not include any increase in our category position in the Middle East, North Africa, and Pakistan as a result of our pending acquisition of Careem.
+score: 0.15476055395420196
+order: 0
+====================================================================================================
+For more detail on ownership stakes, see the section titled Managements Discussion and Analysis of Financial Condition and Results of OperationsMinority-Owned Affiliates.
+score: 0.155
+order: 1
+----------------------------------------
+We expect to benefit from continued growth of the meal delivery industry in the regions where our minority-owned affiliates operate.
+score: 0.16999553837001785
+order: 12
+====================================================================================================
+Uber Freight leverages our proprietary technology, brand awareness, and experience revolutionizing industries to create a transparent, on-demand marketplace that seamlessly connects shippers and carriers.
+score: 0.16536891353062855
+order: 1
+----------------------------------------
+Uber Freight greatly reduces friction in the logistics industry by providing an on-demand platform to automate and accelerate logistics transactions end-to-end.
+score: 0.15659257511975613
+order: 4
+====================================================================================================
+We can rapidly launch and scale platform products and offerings by leveraging our massive network, leading technology, operational excellence, and product expertise.
+score: 0.17720066627474035
+order: 1
+----------------------------------------
+Furthermore, each new product adds nodes to our network and strengthens these shared capabilities, enabling us to launch and invest in additional products more efficiently.
+score: 0.10971936442615454
+order: 2
+====================================================================================================
+In addition, each new product or offering enables us to invest more efficiently because we share innovations and investments across our platform offerings.
+score: 0.1638025969756739
+order: 2
+----------------------------------------
+Both of these dynamics grow our network scale and liquidity, which further increases the value of our platform to platform users.
+score: 0.15148105100028178
+order: 5
+====================================================================================================
+There were 1.5 billion Trips on our platform for the quarter ended December 31, 2018.
+score: 0.5617404513888888
+order: 0
+====================================================================================================
+There were 3.9 million Drivers on our platform for the quarter ended December 31, 2018.
+score: 0.5617404513888888
+order: 0
+====================================================================================================
+We had a 9% Core Platform Contribution Margin in 2018.
+score: 0.15365650969529085
+order: 1
+----------------------------------------
+See the section titled Summary Consolidated Financial and Operating DataNotes about Certain Key MetricsCore Platform Contribution Profit (Loss) and Margin for additional information.
+score: 0.15695620967025514
+order: 2
+====================================================================================================
+Over the same period, revenue reached $11.3 billion, up 42% from $7.9 billion in the prior year.
+score: 0.1781133938647789
+order: 1
+----------------------------------------
+Core Platform Adjusted Net Revenue was $9.9 billion in 2018, up 39% from $7.1 billion in 2017.
+score: 0.21983323488675247
+order: 2
+====================================================================================================
+Dubai-based Careem, founded in 2012, provides ridesharing, meal delivery, and payments services to millions of users in 115 cities across the Middle East, North Africa, and Pakistan.
+score: 0.14358124316135007
+order: 1
+----------------------------------------
+Careem has ridesharing operations in 14 countries excluding Sudan, which business we expect Careem to divest prior to the closing of our acquisition.
+score: 0.1353873213542927
+order: 4
+====================================================================================================
+The purchase price for the acquisition is approximately $3.1 billion, consisting of up to approximately $1.7 billion of our unsecured convertible notes (the Careem Convertible Notes) and approximately $1.4 billion in cash, subject to certain adjustments.
+score: 0.07810897435897438
+order: 0
+----------------------------------------
+The acquisition of Careems business is subject to applicable regulatory approvals in certain of the countries in which Careem operates.
+score: 0.16327909270216964
+order: 1
+====================================================================================================
+This investment will enable us to raise dedicated capital to fund our ATG business and aims to accelerate the development and commercialization of automated ridesharing services.
+score: 0.1225
+order: 1
+----------------------------------------
+The ATG Investors will collectively receive a 13.8% stake in ATG on a fully diluted basis.
+score: 0.12198438683643144
+order: 3
+====================================================================================================
+Pursuant to the ATG Collaboration Agreement, ATG and Toyota will agree on development plans, and thereafter Toyota will contribute to ATG up to an aggregate of $300 million in cash over six semi-annual installments to fund the ongoing activities contemplated under the ATG Collaboration Agreement.
+score: 0.2826509966126369
+order: 1
+----------------------------------------
+The ATG Collaboration Agreement represents an expansion of the existing relationship between ATG and Toyota and adds DENSO to the overall effort.
+score: 0.25048729505519624
+order: 2
+====================================================================================================
+The sale of the shares in the private placement is subject to certain closing conditions, including the closing of this offering and certain regulatory approvals.
+score: 0.1516756067197185
+order: 1
+----------------------------------------
+Our unaudited interim consolidated financial statements for the three months ended March 31, 2019 are not yet available.
+score: 0.1347559602595558
+order: 5
+====================================================================================================
+The preliminary estimates for the three months ended March 31, 2019 presented below have been prepared by, and are the responsibility of, management.
+score: 0.10625
+order: 0
+----------------------------------------
+Accordingly, PricewaterhouseCoopers LLP does not express an opinion or any other form of assurance with respect thereto.
+score: 0.13642959945161268
+order: 2
+====================================================================================================
+For example, an UberPOOL ride with three paying consumers represents three unique Trips, whereas an UberX ride with three passengers represents one Trip.
+score: 0.14875
+order: 1
+----------------------------------------
+(5) See the section titled Notes about Certain Key MetricsCore Platform Contribution Profit (Loss) and Margin for more information.
+score: 0.12875
+order: 8
+====================================================================================================
+The expected net loss attributable to Uber Technologies, Inc. is due to increased loss from operations for the three months ended March 31, 2019 due to continued investment in our Core Platform, including increased incentive and promotion spend.
+score: 0.11731898009015775
+order: 0
+====================================================================================================
+We expect our Core Platform Contribution Margin to be within the range of (4)% to (7)% for the three months ended March 31, 2019.
+score: 0.19675712741151147
+order: 1
+----------------------------------------
+Our incentive and promotion spend varies widely from period to period and within various markets based on competitive dynamics and other factors.
+score: 0.12448052853954081
+order: 3
+====================================================================================================
+The highest estimated Core Platform Contribution Margin among these countries was approximately 54%, and the lowest estimated Core Platform Contribution Margin was approximately (10)%.
+score: 0.6892691115702478
+order: 0
+----------------------------------------
+The estimated Core Platform Contribution Margin of our top five countries based on Gross Bookings does not represent the overall performance of our Core Platform, which is managed globally.
+score: 0.4564299242424243
+order: 1
+====================================================================================================
+The following tables provide reconciliations of our preliminary estimates of Adjusted Net Revenue, Core Platform Adjusted Net Revenue, Ridesharing Adjusted Net Revenue, and Uber Eats Adjusted Net Revenue for the three months ended March 31, 2019, and reconciliations of actual Adjusted Net Revenue, Core Platform Adjusted Net Revenue, Ridesharing Adjusted Net Revenue, and Uber Eats Adjusted Net Revenue for the three months ended March 31, 2018.
+score: 2.312781855955679
+order: 0
+----------------------------------------
+(1) Core Platform Adjusted Net Revenue includes Ridesharing Adjusted Net Revenue, Uber Eats Adjusted Net Revenue, and Other Core Platform Adjusted Net Revenue.
+score: 1.4243275021076724
+order: 1
+====================================================================================================
+(1) The components of other income (expense), net are as follows: How We Approach the Future We are on a new path forward with the hiring of our Chief Executive Officer Dara Khosrowshahi in September 2017 following many challenges regarding our culture, workplace practices, and reputation.
+score: 0.017833869219358735
+order: 1
+----------------------------------------
+Our leadership team has sought to reform our culture fundamentally by improving our governance structure, strengthening our compliance program, creating and embracing new cultural norms, committing to diversity and inclusion, and rebuilding our relationships with employees, Drivers, consumers, cities, and regulators.
+score: 0.0037520124340248663
+order: 3
+====================================================================================================
+We built a seasoned, qualified board of directors with the addition of new independent directors in 2017 and 2018, including Ursula Burns, Wan Ling Martello, Ronald Sugar, and John Thain.
+score: 0.12478329429651544
+order: 1
+----------------------------------------
+We divided the roles of Chairperson and Chief Executive Officer and appointed Dr. Sugar as independent Chairperson.
+score: 0.13775681588278801
+order: 2
+====================================================================================================
+We are committed to building a best-in-class compliance program.
+score: 0.14009245242214532
+order: 0
+----------------------------------------
+We have made tremendous progress in creating a program that is designed to prevent and detect violations of corporate policy, law, and regulations.
+score: 0.12824826989619376
+order: 1
+====================================================================================================
+We strive to create a workplace that is inclusive of everyone, where every person can be authentic, and where that authenticity is celebrated as a strength.
+score: 0.1481617934587946
+order: 1
+----------------------------------------
+We embrace the future with optimism, and we work towards our mission based on eight cultural norms.
+score: 0.12740051903114188
+order: 3
+====================================================================================================
+We harness the power and scale of our global operations to deeply connect with the cities, communities, drivers, and riders that we serve every day.
+score: 0.15133560080350622
+order: 1
+----------------------------------------
+We work tirelessly to earn our customers trust and business by solving their problems, maximizing their earnings, or lowering their costs.
+score: 0.13756700233051586
+order: 3
+====================================================================================================
+We ensure people of diverse backgrounds feel welcome.
+score: 0.10750000000000001
+order: 2
+----------------------------------------
+We encourage different opinions and approaches to be heard, and then we come together and build.
+score: 0.15020335917570155
+order: 3
+====================================================================================================
+As a result, we are rebuilding and strengthening our relationships with regulators around the world and engaging in an ongoing, constructive dialogue.
+score: 0.1275
+order: 12
+----------------------------------------
+Additionally, in 2018, we partnered with officials in the province of Mendoza, Argentina to design the countrys first ridesharing regulations.
+score: 0.135
+order: 14
+====================================================================================================
+We have created an Early Tester Program for Drivers to try features and updates before they are widely available, and we continue to prioritize and promote good Driver relations.
+score: 0.07236642011301876
+order: 0
+----------------------------------------
+In November 2018, we introduced a Driver rewards program, Uber Pro, in beta mode in eight cities in the United States.
+score: 0.15958333333333333
+order: 1
+====================================================================================================
+Every node we add to our network increases liquidity, and we intend to continue to add more Drivers, consumers, restaurants, shippers, carriers, and dockless e-bikes and e-scooters.
+score: 0.10652978086252829
+order: 5
+----------------------------------------
+We also hope to add autonomous vehicles, delivery drones, and vertical takeoff and landing vehicles to our network, along with other future innovations.
+score: 0.11779415638470818
+order: 6
+====================================================================================================
+Our strategy is to create the largest network in each market so that we can have the greatest liquidity network effect, which we believe leads to a margin advantage.
+score: 0.34130726332944106
+order: 0
+----------------------------------------
+Starting with supply to create a liquidity network effect.
+score: 0.35120469759926126
+order: 1
+====================================================================================================
+Generally, for a given geographic market, we believe that the operator with the larger network will have a higher margin than the operator with the smaller network.
+score: 0.11979111790486068
+order: 3
+----------------------------------------
+Our marketplace technologies comprise the real-time algorithmic decision engine that matches supply and demand for our Personal Mobility, Uber Eats, and Uber Freight offerings.
+score: 0.11095054226042506
+order: 9
+====================================================================================================
+Pricing.
+score: 0.3595833333333333
+order: 2
+----------------------------------------
+In areas and times of high demand, we deploy dynamic pricing to help restore balance between Driver supply and consumer demand.
+score: 0.1805753968253968
+order: 4
+====================================================================================================
+We use advanced routing algorithms to build a carefully optimized system capable of handling hundreds of thousands of ETA requests per second.
+score: 0.17675564178474903
+order: 1
+----------------------------------------
+Payments technologies.
+score: 0.12819943289224953
+order: 2
+====================================================================================================
+We have regional operations teams in all of our markets.
+score: 0.11946350478967097
+order: 2
+----------------------------------------
+These regional on-the-ground teams enable us to better understand and contribute to communities that we serve.
+score: 0.14196350478967096
+order: 3
+====================================================================================================
+By leveraging our network scale, we rapidly introduce and iterate new products and features in multiple markets across the globe.
+score: 0.13707612456747406
+order: 6
+----------------------------------------
+We have a two-way ratings system that enables both Drivers and consumers to rate each other, which increases accountability on our platform.
+score: 0.15704761717521235
+order: 10
+====================================================================================================
+In addition, Euromonitor International estimated that global spend through store-based grocery retailers was $6.3 trillion in 2017.
+score: 0.14875469153450943
+order: 3
+----------------------------------------
+Uber Freight According to the American Trucking Associations, businesses spent $700 billion on trucking in the United States in 2017.
+score: 0.16062322131912665
+order: 5
+====================================================================================================
+Investing in our common stock involves numerous risks, including the risks described in the section titled Risk Factors and elsewhere in this prospectus.
+score: 0.11129331316008069
+order: 0
+----------------------------------------
+The following are some of these risks, any of which could have an adverse effect on our business financial condition, operating results, or prospects.
+score: 0.11548506807702873
+order: 2
+====================================================================================================
+We have incurred significant losses since inception, including in the United States and other major markets.
+score: 0.1575
+order: 1
+----------------------------------------
+We expect our operating expenses to increase significantly in the foreseeable future, and we may not achieve profitability.
+score: 0.14750000000000002
+order: 2
+====================================================================================================
+If we are unable to effectively manage that growth, our financial performance and future prospects will be adversely affected.
+score: 0.18100221314508552
+order: 1
+----------------------------------------
+We are making substantial investments in new offerings and technologies, and expect to increase such investments in the future.
+score: 0.13961784997580484
+order: 3
+====================================================================================================
+Our potential acquisition of Careem is subject to a number of risks and uncertainties.
+score: 0.3984056122448979
+order: 0
+====================================================================================================
+Our business is subject to numerous legal and regulatory risks that could have an adverse impact on our business and future prospects.
+score: 0.13557300322507182
+order: 2
+----------------------------------------
+Corporate Information We were founded in 2009 and incorporated as Ubercab, Inc., a Delaware corporation, in July 2010.
+score: 0.125
+order: 3
+====================================================================================================
+Information contained on or accessible through our website is not a part of this prospectus or the registration statement of which it forms a part.
+score: 0.3297110836522109
+order: 0
+====================================================================================================
+Uber, Uber Technologies, the Uber logo, and other trade names, trademarks, or service marks of Uber appearing in this prospectus are the property of Uber.
+score: 0.6843901291016677
+order: 0
+----------------------------------------
+Trade names, trademarks, and service marks of other companies appearing in this prospectus are the property of their respective holders.
+score: 0.26822197567389877
+order: 1
+====================================================================================================
+Based on the initial public offering price of $45.00 per share, PayPal will purchase 11,111,112 shares.
+score: 0.184222412109375
+order: 1
+----------------------------------------
+The sale of the shares in the private placement is subject to certain closing conditions, including the completion of this offering and certain regulatory approvals.
+score: 0.12571222214471728
+order: 3
+====================================================================================================
+1,682,521,965 shares Use of proceeds We estimate that net proceeds to us from the sale of our common stock in this offering will be approximately $8.0 billion after deducting the underwriting discounts and commissions and estimated offering expenses payable by us.
+score: 0.05719310451453307
+order: 0
+====================================================================================================
+Additionally, our proceeds from the private placement to PayPal will be $500 million.
+score: 0.09458333333333334
+order: 0
+----------------------------------------
+We will not receive any proceeds from the sale of common stock in this offering by the selling stockholders.
+score: 0.2022203947368421
+order: 1
+====================================================================================================
+The principal purposes of this offering are to increase our capitalization and financial flexibility and create a public market for our common stock.
+score: 0.1121318075089091
+order: 0
+----------------------------------------
+We intend to use the net proceeds we receive from this offering for general corporate purposes, including working capital, operating expenses, and capital expenditures.
+score: 0.18165248325892858
+order: 1
+====================================================================================================
+See the section titled Risk Factors and the other information included in this prospectus for a discussion of factors you should carefully consider before deciding to invest in our common stock.
+score: 0.23512768193787775
+order: 0
+====================================================================================================
+To acknowledge Drivers who have participated in our success, we paid a one-time cash Driver appreciation reward to qualifying Drivers in jurisdictions where we operate through owned operations, in an aggregate amount of approximately $300 million to over 1.1 million qualifying Drivers around the world.
+score: 0.20747088655146503
+order: 0
+----------------------------------------
+We paid the Driver appreciation reward to qualifying Drivers on April 27, 2019.
+score: 0.22657172373081463
+order: 1
+====================================================================================================
+In the United States, each qualifying Driver received a Driver appreciation reward in an amount equal to $100, $500, $1,000, $10,000, $20,000, or $40,000, based on the number of lifetime Trips completed by the qualifying Driver.
+score: 0.13681594141118572
+order: 0
+----------------------------------------
+The amount of the Driver appreciation reward paid to qualifying Drivers outside the United States was based on the same Trip criteria, but was subject to adjustment on a region-by-region basis to account for differences in average hourly earnings by region.
+score: 0.05218524992173641
+order: 1
+====================================================================================================
+Qualifying Drivers received only one Driver appreciation reward, which was the largest Driver appreciation reward for which they were eligible.
+score: 1.1971705693296602
+order: 0
+====================================================================================================
+To qualify for the directed share program, a Driver must meet the minimum criteria for the Driver appreciation reward.
+score: 0.22164805010330577
+order: 1
+----------------------------------------
+The sales will be made at our direction by Morgan Stanley & Co. LLC and its affiliates through a directed share program.
+score: 0.19429415399940966
+order: 2
+====================================================================================================
+In addition, unless we specifically state otherwise, the information in this prospectus assumes: the filing of our amended and restated certificate of incorporation and the adoption of our amended and restated bylaws, each of which will be in effect prior to the closing of this offering; the automatic conversion of 903.6 million shares of our redeemable convertible preferred stock outstanding as of December 31, 2018 into 903.6 million shares of our common stock immediately prior to the closing of this offering; the net issuance of 39.6 million shares of our common stock subject to RSUs outstanding as of December 31, 2018, for which the service-based vesting condition was satisfied as of December 31, 2018 and the liquidity event-based vesting condition will be satisfied in connection with this offering, after withholding 23.2 million shares to satisfy associated estimated income tax obligations (based on the initial public offering price of $45.00 per share and an assumed 37% tax withholding rate); the cash exercise of a warrant to purchase 150,071 shares of our Series E redeemable convertible preferred stock outstanding as of December 31, 2018, which will result in the issuance of 150,071 shares of common stock in connection with this offering; 922,655 shares of our Series G redeemable convertible preferred stock issued in February 2019 upon the exercise of a warrant that was outstanding as of December 31, 2018, which will automatically convert into 922,655 shares of common stock in connection with this offering; 90.0 million shares of our common stock issuable upon the conversion of $2.9 billion accrued principal and accrued and unpaid interest on our outstanding unsecured paid-in-kind (PIK) convertible notes due 2021 (the 2021 Convertible Notes) and unsecured PIK convertible notes due 2022 (the 2022 Convertible Notes, and together with the 2021 Convertible Notes, the Convertible Notes) outstanding as of December 31, 2018 in connection with the closing of this offering; no exercise of outstanding stock options or settlement of outstanding RSUs subsequent to December 31, 2018; and no exercise of the underwriters over-allotment option.
+score: -1.5797670867573657
+order: 0
+====================================================================================================
+You should read the following summary consolidated financial and operating data together with the sections titled Selected Consolidated Financial and Operating Data and Managements Discussion and Analysis of Financial Condition and Results of Operations and our audited consolidated financial statements and the related notes included elsewhere in this prospectus.
+score: 0.2595346724965969
+order: 2
+----------------------------------------
+The summary consolidated financial and operating data in this section are not intended to replace our audited consolidated financial statements and the related notes and are qualified in their entirety by our audited consolidated financial statements and the related notes included elsewhere in this prospectus.
+score: 0.3076283670033671
+order: 3
+====================================================================================================
+(3) Working capital is defined as total current assets less total current liabilities.
+score: 0.11069822373393802
+order: 1
+----------------------------------------
+See our audited consolidated financial statements and the related notes included elsewhere in this prospectus for further details regarding our current assets and current liabilities.
+score: 0.11937925170068027
+order: 2
+====================================================================================================
+MAPCs presented for an annual period are MAPCs for the fourth quarter of the year.
+score: 0.13277677574936225
+order: 1
+----------------------------------------
+MAPCs exclude the impact of our 2018 Divested Operations.
+score: 0.07450520833333334
+order: 2
+====================================================================================================
+(2) Trips represent the number of completed consumer Ridesharing or New Mobility rides and Uber Eats meal deliveries in a given period.
+score: 0.13199205863347277
+order: 0
+----------------------------------------
+For example, an UberPOOL ride with three paying consumers represents three unique Trips, whereas an UberX ride with three passengers represents one Trip.
+score: 0.15864066804407712
+order: 1
+====================================================================================================
+(5) See the section titled Notes about Certain Key MetricsCore Platform Contribution Profit (Loss) and Margin below for more information.
+score: 0.1863468809073724
+order: 4
+----------------------------------------
+We define Core Platform Contribution Margin as Core Platform Contribution Profit (Loss) as a percentage of Core Platform Adjusted Net Revenue.
+score: 0.2457314592897651
+order: 8
+====================================================================================================
+Our calculation of these non-GAAP financial measures may differ from similarly-titled non-GAAP measures, if any, reported by our peer companies.
+score: 0.20392552145334092
+order: 4
+----------------------------------------
+Adjusted Net Revenue We define Adjusted Net Revenue as revenue less (i) excess Driver incentives and (ii) Driver referrals.
+score: 0.22276393595460625
+order: 6
+====================================================================================================
+Excess Driver incentives refer to cumulative payments, including incentives but excluding Driver referrals, to a Driver that exceed the cumulative revenue that we recognize from a Driver with no future guarantee of additional revenue.
+score: 0.22286460960952015
+order: 0
+----------------------------------------
+Management views Driver incentives and Driver referrals as Driver payments in the aggregate, whether they are classified as Driver incentives, excess Driver incentives, or Driver referrals.
+score: 0.5103419157116236
+order: 5
+====================================================================================================
+Adjusted Net Revenue has limitations as a financial measure, should be considered as supplemental in nature, and is not meant as a substitute for revenue prepared in accordance with GAAP.
+score: 0.1960227272727273
+order: 0
+====================================================================================================
+These charges decreased revenue by $97 million in 2018.
+score: 0.09151571119560528
+order: 3
+----------------------------------------
+In addition, it provides a useful measure for period-to-period comparisons of our business, as it removes the effect of certain non-cash expenses and certain variable charges.
+score: 0.10096708579881655
+order: 7
+====================================================================================================
+Adjusted EBITDA has limitations as a financial measure, should be considered as supplemental in nature, and is not meant as a substitute for the related financial information prepared in accordance with GAAP.
+score: 0.06678329823035187
+order: 0
+----------------------------------------
+The 2018 Divested Operations decreased net income (loss) attributable to Uber Technologies, Inc. by $229 million, $481 million, and $127 million in 2016, 2017, and 2018, respectively.
+score: 0.09765492290698473
+order: 3
+====================================================================================================
+====================================================================================================
