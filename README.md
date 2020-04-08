@@ -16,9 +16,6 @@ See `.\get_prospectus\get_prospectus.py`. You need the **Company Name** as well 
 - cleaned prospectus with [CLS][SEP] tokens
 - cleaned summary with [CLS][SEP] tokens
 
-**Warning**: 
-- *You should manually adjust the format of cleaned text file. For example, you should delete the last [CLS][SEP] for each paragraph, you should delete [CLS][SEP] in decimals, names, etc.*
-- *You should delete the space in file name when running BertSum.*
 
 ### [TextRank & TextTeaser](#readme)
 We compare the performance of BertSum with TextRank & TextTeaser. In `./textrank` and `./textteaser` folder, you will see code, raw text and summarized text. Notice that this two models are just for reference. We would like to show how powerful BertSum is when comparing with obsolete algos.
